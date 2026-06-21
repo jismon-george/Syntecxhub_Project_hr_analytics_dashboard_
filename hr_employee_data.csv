@@ -1,0 +1,1501 @@
+employee_id,age,gender,department,job_role,years_experience,years_at_company,years_since_last_promotion,monthly_salary,annual_salary,job_satisfaction,work_life_balance,performance_rating,overtime,commute_distance_km,marital_status,education_field,attrition
+1001,20,Male,Sales,Sales Manager,5,0,0,5100,61200,4,2,3,No,9.0,Married,Engineering,No
+1002,31,Female,Engineering,Software Engineer,12,0,0,9340,112100,4,3,3,No,1.8,Single,Engineering,No
+1003,20,Male,Finance,Accountant,10,10,1,6940,83300,4,2,3,No,5.6,Married,Business,No
+1004,34,Female,Customer Support,Support Lead,13,2,2,5630,67600,2,3,2,No,16.2,Married,Marketing,No
+1005,31,Female,Finance,Financial Analyst,0,0,0,4220,50700,2,2,3,No,4.8,Married,Engineering,No
+1006,24,Male,Finance,Finance Manager,6,1,1,6480,77800,3,2,4,Yes,4.1,Married,Marketing,No
+1007,52,Female,Engineering,Senior Engineer,1,1,1,6720,80600,3,1,4,No,7.5,Divorced,Business,No
+1008,34,Female,Customer Support,Support Lead,0,0,0,4020,48200,3,2,3,No,5.9,Single,Engineering,No
+1009,50,Female,Customer Support,Support Lead,5,0,0,4220,50600,2,1,1,Yes,13.2,Single,Engineering,Yes
+1010,47,Male,Sales,Sales Executive,4,3,0,4770,57200,1,2,3,Yes,29.9,Single,Engineering,Yes
+1011,25,Female,Sales,Sales Executive,5,5,1,3830,46000,4,2,2,No,10.8,Married,Engineering,No
+1012,52,Female,Customer Support,Support Associate,6,1,1,4020,48200,2,4,3,No,1.0,Single,Engineering,Yes
+1013,36,Male,HR,HR Manager,1,1,0,4860,58300,3,1,3,Yes,1.0,Single,Marketing,Yes
+1014,33,Female,Sales,Sales Manager,4,1,0,5280,63400,3,1,3,No,5.0,Single,Marketing,No
+1015,48,Male,Customer Support,Support Lead,7,1,1,4290,51500,3,4,2,No,9.1,Single,Marketing,No
+1016,34,Male,Engineering,QA Engineer,12,0,0,9120,109400,3,1,4,No,6.6,Married,Engineering,No
+1017,28,Male,Sales,Sales Manager,14,8,0,6690,80300,3,1,3,Yes,27.6,Single,Engineering,No
+1018,42,Female,Sales,Sales Manager,11,1,1,5900,70800,4,3,3,Yes,17.1,Single,Other,No
+1019,25,Male,Customer Support,Support Associate,8,5,5,4380,52500,4,1,4,No,6.2,Married,Marketing,No
+1020,34,Female,Finance,Financial Analyst,5,1,1,6080,72900,3,4,3,Yes,8.7,Married,Business,No
+1021,52,Male,Sales,Sales Executive,9,4,0,5850,70200,3,3,3,No,12.0,Married,Engineering,Yes
+1022,38,Male,Finance,Accountant,8,1,1,5480,65800,1,3,2,No,10.6,Married,Business,No
+1023,33,Male,Engineering,Engineering Manager,13,1,1,9950,119400,3,4,2,No,1.0,Married,Other,Yes
+1024,34,Female,Engineering,Senior Engineer,1,1,1,7440,89300,3,3,4,No,3.6,Married,Engineering,No
+1025,39,Male,Engineering,QA Engineer,0,0,0,6170,74000,2,1,3,No,1.0,Single,Engineering,No
+1026,35,Male,Sales,Account Manager,7,3,2,4490,53900,1,3,4,No,19.7,Divorced,Other,Yes
+1027,34,Male,Marketing,Marketing Associate,13,0,0,6080,73000,4,2,4,No,1.0,Married,Marketing,No
+1028,23,Male,Customer Support,Support Associate,11,3,0,4840,58100,4,3,4,No,1.0,Married,Business,No
+1029,40,Male,Sales,Account Manager,4,1,1,4070,48800,2,3,3,No,6.9,Divorced,HR,Yes
+1030,49,Female,Engineering,Software Engineer,7,1,1,8280,99400,3,3,3,No,2.5,Married,Engineering,No
+1031,37,Male,Sales,Sales Executive,8,0,0,4490,53900,4,3,3,No,4.4,Single,Business,No
+1032,38,Female,Finance,Financial Analyst,3,3,0,5330,64000,1,4,3,No,6.2,Married,Other,No
+1033,46,Male,Customer Support,Support Manager,8,1,1,5410,64900,4,3,3,No,15.1,Married,Other,No
+1034,20,Female,Marketing,Content Specialist,7,1,1,6480,77800,4,4,2,Yes,3.8,Married,Marketing,No
+1035,25,Male,Sales,Sales Executive,16,2,0,6210,74500,4,2,2,No,4.2,Married,HR,No
+1036,31,Female,Sales,Sales Manager,5,3,0,3960,47500,4,3,3,No,4.8,Single,Engineering,No
+1037,21,Female,Marketing,Marketing Manager,5,2,2,5620,67500,1,3,3,No,16.2,Married,Other,Yes
+1038,20,Male,Engineering,Software Engineer,8,3,3,8080,97000,3,1,4,No,2.4,Single,Engineering,No
+1039,27,Male,Sales,Account Manager,12,5,1,6030,72400,1,4,1,Yes,2.3,Married,Marketing,Yes
+1040,21,Male,Sales,Sales Executive,5,0,0,4480,53800,2,4,2,No,5.8,Married,Business,Yes
+1041,36,Male,Customer Support,Support Lead,8,1,1,3790,45500,3,4,3,No,3.4,Single,Marketing,No
+1042,20,Male,Marketing,Content Specialist,12,2,0,6860,82300,4,2,2,No,6.8,Married,Engineering,No
+1043,36,Male,Sales,Sales Executive,2,2,1,4450,53400,1,2,4,No,1.0,Married,Engineering,No
+1044,25,Female,Sales,Account Manager,6,1,0,5420,65100,4,3,3,No,6.2,Married,Business,No
+1045,37,Female,Finance,Accountant,5,1,1,5960,71500,3,4,3,No,5.5,Married,HR,No
+1046,48,Male,Finance,Finance Manager,5,1,1,5950,71400,4,2,4,Yes,6.9,Married,Engineering,No
+1047,44,Male,Customer Support,Support Associate,7,0,0,4650,55800,3,3,3,Yes,5.7,Married,Business,No
+1048,38,Female,Customer Support,Support Manager,3,2,2,3980,47700,2,2,3,No,1.0,Married,Engineering,Yes
+1049,34,Male,Engineering,Engineering Manager,11,0,0,9790,117500,1,4,2,No,9.4,Single,HR,No
+1050,37,Female,Engineering,Senior Engineer,5,5,4,6390,76700,2,3,3,No,4.4,Married,HR,No
+1051,20,Male,HR,HR Manager,11,0,0,5450,65400,3,4,4,No,22.3,Married,Marketing,Yes
+1052,40,Male,HR,HR Executive,3,0,0,4670,56000,2,3,3,No,8.0,Single,Business,No
+1053,38,Male,Customer Support,Support Manager,8,1,1,4650,55800,4,2,3,No,1.0,Divorced,Engineering,No
+1054,25,Male,Engineering,Software Engineer,13,0,0,10350,124200,3,3,4,No,5.0,Married,Engineering,No
+1055,21,Male,Engineering,Engineering Manager,6,0,0,7650,91800,3,3,3,No,1.0,Married,HR,No
+1056,39,Male,Finance,Accountant,5,4,4,5170,62000,4,4,3,Yes,4.7,Single,Business,No
+1057,20,Male,Marketing,Marketing Manager,8,4,3,4970,59600,3,3,3,No,2.2,Single,Business,No
+1058,32,Male,Finance,Finance Manager,1,1,0,6000,72000,3,4,2,Yes,2.9,Single,Engineering,No
+1059,35,Female,HR,Recruiter,15,0,0,5590,67100,1,2,4,No,4.4,Single,HR,No
+1060,48,Female,Customer Support,Support Manager,8,0,0,4510,54100,4,3,4,No,2.4,Divorced,Engineering,No
+1061,21,Male,HR,HR Manager,11,11,2,5880,70500,1,4,1,No,8.0,Single,Engineering,No
+1062,31,Male,Finance,Financial Analyst,8,8,0,5590,67100,4,2,2,No,5.7,Married,Other,No
+1063,40,Female,Sales,Sales Manager,8,1,0,6520,78300,2,3,3,No,1.2,Married,Business,Yes
+1064,51,Male,Sales,Account Manager,13,1,0,5430,65200,1,2,3,No,5.3,Divorced,Engineering,Yes
+1065,34,Female,Engineering,Engineering Manager,0,0,0,5930,71200,1,3,3,No,1.0,Married,HR,No
+1066,35,Male,Engineering,Senior Engineer,5,0,0,8910,106900,2,4,4,No,1.1,Married,Engineering,No
+1067,35,Male,Sales,Sales Manager,10,8,1,7320,87800,4,2,3,No,6.8,Single,Other,No
+1068,41,Male,HR,HR Manager,2,0,0,3710,44500,1,2,4,No,3.9,Single,Business,Yes
+1069,26,Female,Sales,Sales Executive,6,6,0,5520,66300,4,3,2,No,2.2,Married,Engineering,No
+1070,37,Female,Sales,Account Manager,0,0,0,3750,45000,3,4,2,No,1.1,Married,Business,No
+1071,38,Male,Finance,Accountant,7,4,4,6620,79500,4,4,3,No,3.2,Divorced,HR,No
+1072,33,Male,Engineering,Software Engineer,5,0,0,8280,99400,1,3,4,No,13.3,Single,Engineering,No
+1073,41,Female,Finance,Accountant,9,3,1,6380,76500,3,2,1,No,4.7,Single,Business,No
+1074,45,Female,Engineering,Senior Engineer,10,2,0,8650,103800,4,2,3,No,9.6,Single,Business,No
+1075,20,Male,Customer Support,Support Lead,15,4,1,4640,55700,4,4,1,No,1.0,Married,HR,No
+1076,20,Male,Finance,Accountant,12,1,0,7220,86700,4,2,3,No,7.5,Divorced,Business,Yes
+1077,25,Female,Engineering,QA Engineer,8,3,2,9670,116000,1,2,3,No,7.3,Single,Engineering,No
+1078,20,Female,Marketing,Marketing Associate,5,2,2,5040,60500,2,3,3,No,16.6,Married,Other,Yes
+1079,28,Female,Engineering,Software Engineer,3,0,0,6460,77500,4,3,3,Yes,1.4,Married,Business,No
+1080,37,Male,HR,Recruiter,0,0,0,4220,50700,3,3,3,No,5.7,Married,Engineering,No
+1081,41,Female,Engineering,Engineering Manager,16,0,0,13020,156200,2,3,1,Yes,11.5,Single,Business,No
+1082,40,Male,Marketing,Content Specialist,7,1,0,5330,64000,3,2,2,Yes,7.6,Divorced,Business,No
+1083,45,Male,Sales,Account Manager,6,0,0,5430,65200,4,3,3,Yes,8.8,Single,Business,Yes
+1084,46,Female,Finance,Finance Manager,13,2,2,5150,61800,3,4,3,No,1.0,Married,Engineering,No
+1085,33,Female,Sales,Sales Manager,4,4,4,5060,60700,1,3,2,No,25.6,Married,Engineering,Yes
+1086,58,Female,Sales,Sales Manager,4,1,0,5080,60900,1,3,3,Yes,6.3,Single,Other,Yes
+1087,60,Female,Engineering,Engineering Manager,6,0,0,9090,109100,4,4,2,No,12.1,Married,HR,No
+1088,32,Male,Marketing,Marketing Associate,3,3,0,5550,66600,3,3,2,Yes,3.1,Divorced,HR,No
+1089,28,Male,HR,Recruiter,6,4,1,5780,69300,3,3,3,No,3.7,Single,Engineering,No
+1090,29,Female,Engineering,QA Engineer,7,7,0,7190,86300,4,3,3,No,1.3,Married,Business,No
+1091,43,Female,Marketing,Content Specialist,11,4,2,5540,66500,3,3,4,Yes,6.5,Single,Engineering,No
+1092,39,Male,Sales,Sales Manager,12,6,0,5890,70700,4,1,3,No,2.4,Married,Engineering,No
+1093,40,Male,Engineering,Engineering Manager,13,1,0,9310,111700,3,1,3,No,1.0,Married,Marketing,Yes
+1094,52,Male,Sales,Sales Executive,2,0,0,4740,56900,3,1,3,No,9.6,Single,Engineering,Yes
+1095,35,Female,Customer Support,Support Manager,5,4,0,4080,48900,1,4,3,No,3.0,Single,Engineering,No
+1096,28,Female,Sales,Account Manager,9,2,0,5480,65700,4,1,3,No,41.8,Single,Engineering,Yes
+1097,23,Female,Customer Support,Support Lead,8,3,2,5090,61100,2,4,3,No,1.0,Married,Business,No
+1098,36,Male,Engineering,QA Engineer,4,3,3,8370,100400,4,4,2,No,3.7,Single,Engineering,No
+1099,42,Female,Customer Support,Support Manager,16,3,2,5130,61600,3,4,3,Yes,4.8,Single,Engineering,No
+1100,27,Male,Marketing,Content Specialist,7,1,0,6270,75200,3,4,4,No,5.7,Married,Marketing,No
+1101,30,Male,Marketing,Marketing Associate,15,13,0,6030,72400,3,3,3,Yes,4.4,Married,HR,No
+1102,31,Male,Engineering,Senior Engineer,11,8,1,9480,113800,4,2,4,No,14.7,Married,Business,No
+1103,41,Male,Customer Support,Support Manager,6,4,4,4620,55400,3,2,3,Yes,8.7,Married,Business,Yes
+1104,30,Female,Sales,Account Manager,6,1,0,4200,50400,4,4,3,No,11.5,Divorced,HR,No
+1105,42,Male,Engineering,Engineering Manager,12,1,0,8180,98100,3,4,3,No,11.7,Married,Business,No
+1106,24,Male,Customer Support,Support Lead,13,0,0,3700,44400,4,2,3,Yes,1.5,Divorced,Engineering,No
+1107,24,Male,Sales,Sales Executive,8,4,0,4880,58500,2,4,3,No,1.0,Single,Business,No
+1108,41,Male,Sales,Sales Manager,0,0,0,4600,55200,1,1,2,Yes,6.0,Married,Engineering,Yes
+1109,40,Male,Sales,Account Manager,9,0,0,6560,78700,2,3,3,Yes,3.9,Single,HR,Yes
+1110,33,Female,Engineering,QA Engineer,0,0,0,7740,92900,2,3,3,No,4.0,Married,Other,No
+1111,53,Male,Customer Support,Support Lead,9,0,0,4300,51600,2,2,4,No,8.4,Divorced,Marketing,No
+1112,36,Male,Finance,Accountant,5,3,1,6630,79600,2,2,2,Yes,2.1,Married,Engineering,No
+1113,37,Male,Customer Support,Support Associate,17,10,4,6680,80100,4,2,2,No,25.6,Single,Other,No
+1114,36,Male,Sales,Sales Manager,9,1,1,5220,62600,3,3,4,No,25.0,Single,HR,No
+1115,29,Female,Sales,Account Manager,3,3,0,4700,56400,4,4,3,No,6.3,Married,Other,No
+1116,42,Male,Engineering,Senior Engineer,23,1,0,10240,122900,3,4,3,No,12.2,Divorced,Business,No
+1117,27,Male,Engineering,Senior Engineer,9,5,3,10680,128100,1,3,3,No,1.9,Married,Business,No
+1118,33,Male,Engineering,Software Engineer,7,1,1,6180,74100,2,2,4,No,34.4,Married,Engineering,No
+1119,20,Male,Marketing,Marketing Associate,9,0,0,6690,80300,3,1,2,No,18.9,Single,Business,No
+1120,40,Male,Sales,Sales Executive,0,0,0,4890,58700,4,2,2,Yes,3.6,Single,Engineering,No
+1121,29,Female,Marketing,Marketing Manager,14,5,0,6530,78400,3,2,3,No,11.5,Divorced,Business,No
+1122,28,Male,Sales,Sales Manager,9,1,1,4040,48500,4,4,1,No,3.0,Single,Other,No
+1123,53,Male,Engineering,Software Engineer,5,2,1,8020,96200,1,3,3,No,12.3,Married,Other,Yes
+1124,28,Female,Customer Support,Support Associate,7,1,0,4620,55400,3,2,3,Yes,37.5,Married,Engineering,Yes
+1125,39,Female,Sales,Account Manager,7,0,0,5650,67800,3,3,3,No,10.8,Divorced,Business,No
+1126,39,Female,Marketing,Marketing Associate,11,5,1,6450,77400,1,3,4,No,10.7,Married,Business,Yes
+1127,35,Male,Marketing,Marketing Associate,6,2,0,5540,66500,2,3,1,Yes,11.3,Married,Marketing,Yes
+1128,20,Male,Sales,Sales Executive,6,1,0,5080,61000,3,3,2,No,14.6,Married,Other,No
+1129,42,Male,Customer Support,Support Associate,3,3,0,4040,48500,2,4,3,No,2.6,Single,Marketing,No
+1130,22,Female,Sales,Account Manager,7,7,1,5470,65600,4,3,3,No,21.6,Married,Other,No
+1131,42,Female,Engineering,Engineering Manager,7,7,7,9390,112700,4,2,2,No,6.9,Married,Marketing,No
+1132,30,Male,Sales,Sales Executive,5,3,0,5320,63900,3,3,3,No,10.1,Single,Business,Yes
+1133,53,Male,Engineering,Senior Engineer,5,5,4,7850,94200,3,4,1,No,1.0,Single,HR,No
+1134,33,Male,Sales,Sales Manager,11,2,0,5740,68900,3,2,4,No,1.5,Single,Engineering,Yes
+1135,30,Male,HR,HR Manager,13,0,0,6100,73200,1,2,2,No,23.4,Married,HR,Yes
+1136,39,Male,Marketing,Marketing Manager,7,3,0,5810,69700,4,3,3,No,4.4,Single,Marketing,No
+1137,33,Male,Sales,Sales Manager,10,0,0,6040,72500,4,1,4,No,2.7,Single,Engineering,No
+1138,33,Male,Marketing,Marketing Manager,12,12,0,6440,77300,3,3,3,Yes,1.5,Married,Business,No
+1139,46,Male,Engineering,Software Engineer,5,5,1,7150,85800,1,1,2,No,10.3,Married,Engineering,Yes
+1140,30,Male,Marketing,Marketing Manager,4,0,0,5240,62900,3,2,3,No,20.2,Married,Marketing,Yes
+1141,33,Female,Sales,Account Manager,8,8,2,6520,78200,1,4,3,No,9.1,Married,Business,Yes
+1142,22,Male,Engineering,Senior Engineer,7,0,0,8150,97800,2,1,1,No,2.3,Married,Business,No
+1143,35,Male,HR,Recruiter,0,0,0,3470,41600,4,3,3,No,1.0,Married,Engineering,No
+1144,31,Female,Marketing,Marketing Associate,10,3,0,5590,67100,3,4,3,No,13.2,Married,HR,No
+1145,33,Male,Sales,Account Manager,10,6,5,6280,75400,4,2,4,Yes,2.0,Married,Other,No
+1146,20,Male,Customer Support,Support Lead,6,2,0,3780,45300,2,4,3,No,3.0,Married,Marketing,No
+1147,40,Male,Sales,Account Manager,4,2,2,6060,72700,2,3,3,Yes,1.2,Married,Engineering,Yes
+1148,49,Male,Engineering,QA Engineer,0,0,0,6700,80400,3,1,2,No,2.5,Divorced,Marketing,No
+1149,23,Male,Engineering,Engineering Manager,9,1,1,9980,119800,2,3,3,Yes,18.1,Single,HR,Yes
+1150,23,Male,Engineering,Senior Engineer,4,4,0,8260,99100,1,1,3,No,1.7,Married,Business,No
+1151,24,Female,Customer Support,Support Associate,8,5,2,4770,57200,1,2,3,Yes,5.9,Married,HR,Yes
+1152,37,Male,Marketing,Marketing Associate,4,4,3,4780,57400,4,3,3,No,14.9,Single,Engineering,No
+1153,42,Male,Engineering,Engineering Manager,10,0,0,8540,102500,1,3,3,No,21.1,Single,Other,Yes
+1154,32,Female,Sales,Account Manager,5,2,1,4780,57300,2,2,2,Yes,11.1,Single,HR,Yes
+1155,34,Female,Customer Support,Support Manager,0,0,0,3140,37700,3,2,2,Yes,5.1,Married,Business,No
+1156,27,Female,Sales,Sales Executive,8,7,0,5330,64000,2,1,4,No,5.5,Single,Engineering,No
+1157,50,Male,Engineering,Software Engineer,5,5,0,7360,88300,3,3,1,Yes,4.8,Married,Engineering,No
+1158,43,Male,Engineering,Software Engineer,8,3,2,7560,90700,3,2,3,No,8.5,Married,Business,No
+1159,20,Female,HR,HR Executive,1,1,1,4620,55400,2,2,3,Yes,2.0,Married,HR,Yes
+1160,42,Male,Customer Support,Support Associate,17,0,0,5850,70200,3,3,2,No,3.2,Single,Engineering,No
+1161,44,Female,Marketing,Marketing Associate,1,1,1,4320,51900,3,2,3,No,17.6,Divorced,Business,No
+1162,54,Female,Customer Support,Support Manager,11,0,0,5180,62100,2,2,3,No,6.2,Married,Engineering,Yes
+1163,42,Female,Finance,Accountant,10,10,1,7370,88400,2,2,4,Yes,20.8,Single,Engineering,No
+1164,37,Female,Finance,Accountant,16,1,1,8440,101300,4,1,4,No,5.0,Married,Other,No
+1165,27,Male,Customer Support,Support Manager,1,1,1,3290,39500,3,3,2,No,1.0,Single,Engineering,No
+1166,26,Female,Finance,Financial Analyst,12,2,2,7980,95700,1,4,3,No,3.8,Single,Business,No
+1167,34,Female,Engineering,Senior Engineer,0,0,0,7460,89500,4,3,4,Yes,1.2,Single,Engineering,No
+1168,43,Male,Sales,Account Manager,2,2,2,4620,55500,3,3,3,No,6.7,Married,Engineering,No
+1169,46,Male,Engineering,Software Engineer,0,0,0,7210,86500,2,4,3,Yes,3.7,Married,Business,Yes
+1170,34,Female,Engineering,Software Engineer,6,2,2,7470,89600,4,2,3,Yes,44.5,Married,Engineering,No
+1171,28,Male,Marketing,Marketing Manager,1,0,0,4730,56800,4,3,3,Yes,7.1,Single,Engineering,No
+1172,23,Male,Finance,Accountant,7,2,0,5040,60500,3,3,4,No,20.3,Married,Other,No
+1173,49,Female,Sales,Sales Manager,12,2,1,7080,85000,2,3,3,No,5.3,Single,HR,No
+1174,44,Male,Marketing,Marketing Associate,13,7,7,6180,74100,3,3,4,No,22.8,Married,Other,No
+1175,40,Male,Finance,Accountant,18,5,0,7280,87300,4,3,3,No,2.2,Single,Engineering,No
+1176,36,Female,Sales,Account Manager,9,5,4,6290,75500,2,2,4,Yes,7.8,Single,Business,Yes
+1177,30,Male,Finance,Finance Manager,2,1,1,4600,55200,3,1,3,No,1.0,Divorced,Engineering,Yes
+1178,42,Male,Customer Support,Support Lead,2,2,0,3610,43300,3,3,3,No,1.7,Single,Engineering,No
+1179,22,Male,Marketing,Marketing Associate,9,3,0,6240,74900,3,3,3,No,14.0,Married,Other,Yes
+1180,33,Female,Customer Support,Support Lead,9,1,0,5640,67700,3,4,3,No,3.4,Divorced,Business,Yes
+1181,40,Female,Marketing,Marketing Associate,8,1,1,6850,82200,4,2,3,No,8.1,Single,Engineering,No
+1182,26,Male,Engineering,QA Engineer,13,3,1,8420,101100,2,1,3,No,9.3,Divorced,Marketing,No
+1183,23,Female,Finance,Financial Analyst,10,2,1,6120,73500,4,2,2,No,38.1,Single,Engineering,No
+1184,36,Male,Finance,Finance Manager,13,9,0,8320,99900,3,2,4,No,13.8,Single,HR,No
+1185,42,Female,Customer Support,Support Lead,9,1,1,4180,50200,4,1,3,No,10.0,Single,Business,No
+1186,27,Female,Finance,Financial Analyst,5,0,0,5880,70500,2,3,3,No,4.7,Single,Marketing,No
+1187,40,Male,Finance,Accountant,8,1,1,6380,76600,1,3,2,No,1.3,Single,HR,Yes
+1188,48,Male,Engineering,Software Engineer,14,0,0,9400,112800,1,2,4,No,21.5,Single,Business,Yes
+1189,33,Male,Engineering,Software Engineer,6,1,0,7650,91800,2,2,1,Yes,5.9,Single,Engineering,No
+1190,42,Male,Customer Support,Support Lead,11,0,0,5180,62200,4,2,3,No,1.0,Married,Engineering,No
+1191,40,Male,Customer Support,Support Manager,5,1,1,4340,52100,4,3,2,No,9.3,Divorced,Engineering,No
+1192,36,Female,Engineering,QA Engineer,13,13,2,9550,114600,4,3,4,No,1.7,Single,Engineering,No
+1193,29,Male,Engineering,Engineering Manager,12,1,0,9350,112200,3,2,2,No,3.6,Married,Other,No
+1194,34,Female,Sales,Sales Executive,9,0,0,5030,60400,4,1,2,No,18.6,Single,Marketing,No
+1195,50,Female,Engineering,Engineering Manager,7,0,0,8500,102000,4,2,3,No,1.0,Single,Engineering,No
+1196,33,Female,Finance,Finance Manager,14,2,0,8260,99100,3,3,2,No,9.5,Single,Marketing,No
+1197,51,Male,Finance,Finance Manager,4,2,1,5930,71200,4,3,3,No,13.8,Divorced,Engineering,No
+1198,35,Female,Engineering,Senior Engineer,4,4,2,8240,98900,3,4,3,No,33.3,Married,Other,No
+1199,43,Female,Marketing,Marketing Associate,5,5,1,6150,73800,3,2,3,No,6.4,Divorced,HR,No
+1200,46,Female,Customer Support,Support Lead,14,4,3,5690,68300,3,2,4,Yes,1.4,Married,Other,No
+1201,43,Female,Engineering,Engineering Manager,1,1,1,7530,90400,4,2,3,No,11.2,Single,Other,No
+1202,40,Male,Sales,Account Manager,8,2,2,4920,59000,2,4,1,No,1.0,Married,Business,Yes
+1203,26,Male,Engineering,Senior Engineer,9,2,2,8140,97700,3,1,2,No,14.5,Married,Engineering,Yes
+1204,37,Male,Marketing,Marketing Associate,7,0,0,5620,67400,4,4,4,No,2.6,Married,Engineering,No
+1205,37,Female,Customer Support,Support Associate,10,2,0,4290,51500,4,1,2,No,1.2,Single,Engineering,No
+1206,42,Female,Sales,Account Manager,8,5,5,4910,58900,1,3,3,No,10.9,Married,Business,No
+1207,42,Male,Engineering,QA Engineer,4,4,0,7190,86300,4,3,1,No,6.1,Married,Other,No
+1208,43,Male,Sales,Sales Executive,11,2,2,6520,78300,2,3,4,No,1.0,Married,Engineering,No
+1209,34,Female,Customer Support,Support Associate,4,3,0,3920,47000,2,3,3,Yes,7.8,Single,Engineering,No
+1210,42,Male,Sales,Sales Manager,0,0,0,5710,68500,4,1,2,Yes,11.4,Single,Engineering,No
+1211,20,Female,Customer Support,Support Lead,16,2,0,4390,52700,1,2,3,No,23.7,Married,HR,Yes
+1212,35,Male,Engineering,QA Engineer,2,2,1,7580,90900,4,1,3,No,4.4,Single,Other,No
+1213,36,Male,Customer Support,Support Lead,17,2,2,6240,74900,3,4,2,No,1.3,Single,Other,No
+1214,35,Male,Customer Support,Support Manager,15,0,0,4590,55100,3,4,3,No,1.3,Married,Other,No
+1215,50,Male,Finance,Financial Analyst,2,2,2,6210,74500,2,2,3,No,1.0,Single,HR,No
+1216,46,Male,Sales,Account Manager,4,3,1,5080,60900,3,3,2,No,1.0,Divorced,Engineering,No
+1217,27,Female,HR,HR Executive,2,2,0,3760,45100,4,3,4,No,24.3,Married,Business,No
+1218,33,Male,Marketing,Marketing Associate,9,1,1,6160,73900,1,2,2,No,2.2,Single,Engineering,Yes
+1219,54,Female,Customer Support,Support Manager,10,5,1,4810,57700,1,3,4,No,14.0,Divorced,Engineering,Yes
+1220,32,Female,Sales,Sales Manager,7,7,3,5770,69200,3,4,4,Yes,1.0,Divorced,Engineering,No
+1221,24,Female,Engineering,Senior Engineer,4,4,1,6220,74700,2,4,3,No,1.3,Divorced,Engineering,Yes
+1222,25,Male,Sales,Sales Executive,9,1,1,6280,75400,4,3,3,No,17.2,Divorced,Business,No
+1223,43,Male,Finance,Financial Analyst,0,0,0,5060,60700,2,4,1,No,7.8,Single,Business,No
+1224,45,Male,Engineering,Senior Engineer,9,3,0,10360,124300,4,3,4,Yes,8.7,Single,Other,No
+1225,20,Female,Finance,Finance Manager,3,0,0,6020,72300,4,3,3,No,9.8,Single,Business,No
+1226,35,Male,Engineering,QA Engineer,4,4,1,6900,82800,3,4,4,No,2.7,Married,Other,No
+1227,20,Female,Engineering,QA Engineer,5,0,0,7380,88500,4,4,2,No,26.6,Single,Marketing,No
+1228,30,Female,Customer Support,Support Manager,4,2,1,4820,57800,3,3,3,Yes,1.0,Divorced,Marketing,Yes
+1229,28,Male,Marketing,Content Specialist,10,2,0,5640,67700,4,3,1,No,7.5,Divorced,Business,No
+1230,20,Male,Sales,Sales Executive,8,1,1,5080,61000,1,4,3,No,1.0,Married,Business,Yes
+1231,22,Male,Sales,Sales Executive,8,8,0,4720,56700,1,3,2,Yes,10.9,Single,Marketing,Yes
+1232,34,Male,Engineering,Software Engineer,7,1,1,7990,95900,3,2,2,Yes,2.6,Single,Engineering,No
+1233,35,Male,Customer Support,Support Associate,14,1,1,5240,62900,4,2,3,No,18.1,Married,Business,No
+1234,26,Female,Marketing,Marketing Manager,12,2,1,5880,70600,2,2,3,Yes,3.6,Single,Business,Yes
+1235,50,Female,Engineering,Engineering Manager,7,1,1,8170,98000,3,3,3,No,4.8,Single,Business,No
+1236,20,Male,Sales,Account Manager,12,0,0,7090,85100,3,1,3,No,1.5,Single,Engineering,No
+1237,42,Male,Customer Support,Support Associate,14,0,0,3710,44500,2,2,4,No,5.3,Single,Other,Yes
+1238,26,Male,Finance,Accountant,12,1,1,6390,76700,2,1,3,No,11.8,Divorced,Other,Yes
+1239,35,Male,Engineering,Senior Engineer,8,0,0,8380,100500,4,1,3,No,2.2,Single,Marketing,No
+1240,33,Female,Customer Support,Support Lead,9,7,3,5280,63300,4,3,3,No,6.9,Married,Other,Yes
+1241,33,Female,Customer Support,Support Associate,14,0,0,5190,62300,3,4,4,No,35.0,Single,Other,No
+1242,43,Female,Sales,Sales Executive,9,1,0,5080,61000,4,3,4,No,2.9,Single,Marketing,Yes
+1243,30,Male,Marketing,Marketing Associate,7,7,0,5410,64900,3,3,4,No,9.3,Married,Other,No
+1244,31,Male,Marketing,Content Specialist,10,3,0,5370,64400,2,1,3,Yes,8.1,Married,Marketing,Yes
+1245,38,Female,Sales,Sales Manager,9,1,1,6270,75200,4,4,3,Yes,10.4,Married,Other,No
+1246,45,Male,Finance,Financial Analyst,14,0,0,7580,90900,4,3,3,No,1.5,Married,Business,No
+1247,46,Female,Sales,Sales Manager,4,4,0,4550,54600,2,3,3,No,9.0,Divorced,Engineering,Yes
+1248,29,Male,Sales,Sales Executive,4,3,3,4110,49300,1,4,3,No,3.0,Single,Engineering,Yes
+1249,27,Male,Finance,Financial Analyst,14,0,0,6080,72900,1,2,3,Yes,4.8,Married,Engineering,Yes
+1250,38,Male,Sales,Sales Manager,10,2,0,5140,61700,2,2,3,No,3.8,Married,HR,Yes
+1251,23,Female,Engineering,Senior Engineer,10,3,3,9290,111500,3,3,3,Yes,15.7,Married,Business,Yes
+1252,20,Male,Customer Support,Support Lead,0,0,0,4020,48200,4,3,3,No,28.4,Married,Business,No
+1253,50,Male,Engineering,Senior Engineer,8,0,0,9700,116400,4,4,3,No,4.8,Single,Other,No
+1254,32,Male,Sales,Sales Manager,13,1,1,6120,73500,2,4,3,No,2.9,Single,Business,No
+1255,39,Male,Marketing,Marketing Associate,0,0,0,3990,47900,3,4,3,No,11.6,Single,HR,Yes
+1256,36,Male,Sales,Sales Executive,1,1,1,4660,55900,3,2,3,No,1.5,Married,Other,No
+1257,39,Male,Marketing,Content Specialist,13,9,8,5650,67800,3,3,4,No,2.1,Married,Other,No
+1258,20,Female,Engineering,Software Engineer,5,3,1,7360,88300,2,3,4,No,5.4,Single,Engineering,No
+1259,39,Male,Sales,Sales Executive,0,0,0,4420,53000,4,1,4,Yes,3.7,Married,Marketing,Yes
+1260,20,Female,Finance,Accountant,0,0,0,5660,67900,3,3,3,No,1.6,Single,HR,No
+1261,40,Female,Customer Support,Support Lead,0,0,0,3820,45900,4,3,3,No,1.0,Single,Engineering,No
+1262,20,Female,Marketing,Marketing Manager,6,6,0,5620,67500,3,4,2,No,12.9,Single,Other,No
+1263,41,Male,Finance,Finance Manager,10,6,1,8050,96600,3,3,3,Yes,4.1,Single,Other,Yes
+1264,29,Female,Customer Support,Support Manager,3,3,1,4540,54500,3,4,3,No,10.0,Married,Engineering,No
+1265,31,Male,Customer Support,Support Associate,17,5,1,5480,65700,2,3,4,No,27.5,Single,Engineering,Yes
+1266,44,Female,Customer Support,Support Lead,2,2,2,3250,39000,2,2,3,Yes,2.3,Single,Business,No
+1267,28,Male,Customer Support,Support Lead,5,1,0,4020,48200,4,3,3,No,13.0,Married,Engineering,No
+1268,31,Male,Engineering,Senior Engineer,9,8,1,9230,110800,1,2,3,Yes,7.8,Single,HR,No
+1269,23,Female,Engineering,QA Engineer,11,5,1,7480,89800,4,3,3,No,1.0,Married,Marketing,No
+1270,24,Male,Finance,Financial Analyst,6,6,2,6370,76400,3,4,3,Yes,1.0,Married,Marketing,No
+1271,37,Female,Sales,Sales Manager,10,3,0,5710,68500,4,3,3,Yes,2.7,Single,Business,No
+1272,31,Male,Marketing,Marketing Associate,7,7,0,6250,75000,4,3,3,No,36.6,Divorced,Engineering,No
+1273,36,Male,HR,HR Manager,15,4,0,6320,75900,2,2,3,No,12.4,Married,Marketing,Yes
+1274,48,Male,Sales,Account Manager,7,1,1,5810,69700,4,4,2,No,1.0,Single,Marketing,No
+1275,30,Female,Finance,Financial Analyst,10,1,1,5920,71100,3,3,3,No,19.0,Married,Engineering,Yes
+1276,44,Male,Customer Support,Support Lead,7,5,2,4640,55700,4,2,3,No,4.7,Single,Business,No
+1277,42,Female,HR,HR Executive,2,2,2,4080,49000,4,4,3,No,6.9,Single,Business,No
+1278,34,Male,Marketing,Marketing Manager,13,1,0,7180,86200,3,2,3,Yes,9.2,Married,Engineering,Yes
+1279,32,Male,Sales,Account Manager,3,2,2,5940,71300,2,4,3,No,1.7,Single,HR,No
+1280,37,Female,HR,Recruiter,4,4,3,5260,63100,3,2,2,No,2.0,Married,HR,No
+1281,43,Female,Engineering,Engineering Manager,15,5,0,11200,134400,4,1,3,No,1.2,Married,Engineering,No
+1282,41,Female,Sales,Sales Manager,3,3,0,4710,56500,4,3,3,Yes,1.0,Single,Business,No
+1283,33,Male,Sales,Account Manager,6,2,2,5030,60400,2,4,2,No,3.1,Single,HR,Yes
+1284,36,Female,Sales,Sales Manager,7,7,1,4670,56000,3,3,4,No,4.7,Single,Business,No
+1285,26,Female,Engineering,QA Engineer,9,0,0,9430,113200,3,3,4,No,1.3,Married,Engineering,No
+1286,38,Female,Finance,Finance Manager,8,0,0,7080,84900,1,2,3,Yes,20.9,Single,Other,Yes
+1287,29,Female,Sales,Sales Executive,15,0,0,5880,70600,3,4,3,No,2.5,Married,Business,No
+1288,34,Female,Engineering,Software Engineer,15,3,0,9120,109500,4,1,2,Yes,1.7,Married,Business,No
+1289,35,Male,Sales,Sales Executive,16,2,1,6280,75400,4,3,3,Yes,10.0,Married,Business,Yes
+1290,29,Female,Finance,Financial Analyst,9,0,0,8150,97800,3,3,3,No,2.9,Single,Engineering,No
+1291,28,Female,Customer Support,Support Manager,3,3,1,3520,42300,3,3,3,Yes,13.2,Married,Engineering,No
+1292,25,Male,Engineering,Senior Engineer,20,0,0,12810,153700,3,3,3,Yes,1.0,Single,Engineering,No
+1293,20,Female,Finance,Financial Analyst,11,3,3,6320,75800,4,1,3,No,3.8,Married,Marketing,No
+1294,20,Female,Engineering,Engineering Manager,6,6,0,9850,118200,4,3,2,Yes,1.9,Single,Business,No
+1295,24,Male,Marketing,Marketing Associate,4,2,0,5860,70300,1,3,3,No,60.0,Single,Engineering,No
+1296,31,Male,Engineering,Software Engineer,10,0,0,9340,112100,3,1,3,Yes,1.9,Single,Business,No
+1297,41,Female,Sales,Sales Manager,5,0,0,4480,53800,3,3,3,Yes,18.7,Married,HR,No
+1298,32,Male,Finance,Accountant,4,1,0,6470,77600,4,2,3,No,3.2,Single,Marketing,No
+1299,31,Male,Sales,Sales Executive,9,0,0,5420,65100,4,4,3,Yes,1.6,Married,HR,No
+1300,27,Female,Marketing,Content Specialist,17,1,0,7620,91500,1,4,3,No,4.7,Single,Business,No
+1301,33,Female,Customer Support,Support Lead,4,2,2,4290,51500,2,2,2,No,6.8,Married,Business,Yes
+1302,29,Male,HR,Recruiter,1,1,1,5340,64100,3,3,2,No,3.5,Married,Business,No
+1303,33,Female,Sales,Sales Manager,11,8,1,6290,75500,4,1,4,No,10.8,Married,Business,No
+1304,37,Female,Customer Support,Support Lead,6,2,2,4370,52400,2,3,4,No,18.0,Single,Engineering,No
+1305,33,Male,Customer Support,Support Manager,5,2,1,4380,52600,4,4,4,No,4.7,Single,Engineering,No
+1306,37,Male,Engineering,QA Engineer,5,0,0,6300,75600,3,1,3,Yes,7.1,Divorced,Other,Yes
+1307,20,Male,Customer Support,Support Lead,3,1,1,3500,42000,3,2,4,Yes,8.1,Married,Business,Yes
+1308,47,Female,Engineering,QA Engineer,13,0,0,9870,118400,4,3,2,Yes,18.7,Married,Marketing,No
+1309,45,Female,Marketing,Marketing Manager,9,5,1,4380,52600,2,3,3,No,5.5,Married,Business,No
+1310,37,Male,Finance,Finance Manager,15,2,0,8190,98300,1,4,3,No,1.2,Single,Engineering,No
+1311,31,Male,Engineering,Software Engineer,16,3,0,11020,132200,4,3,4,No,1.5,Married,Marketing,No
+1312,42,Female,Finance,Financial Analyst,1,0,0,4810,57700,2,4,3,No,1.1,Married,HR,No
+1313,35,Male,HR,HR Manager,6,6,2,6330,76000,3,1,3,No,7.7,Divorced,Engineering,No
+1314,25,Male,Engineering,QA Engineer,5,0,0,8780,105300,4,3,4,No,1.6,Divorced,Business,No
+1315,60,Male,Engineering,Senior Engineer,0,0,0,7310,87700,1,1,2,No,1.0,Married,Engineering,Yes
+1316,42,Male,Marketing,Content Specialist,5,5,3,3520,42200,2,3,2,No,1.9,Married,Other,No
+1317,29,Male,HR,Recruiter,1,1,0,4790,57500,3,3,3,Yes,1.0,Single,Marketing,No
+1318,38,Female,Sales,Sales Manager,0,0,0,4020,48300,2,3,3,No,14.9,Married,Other,No
+1319,48,Female,Engineering,Software Engineer,12,4,0,8600,103200,3,3,3,No,11.7,Single,Business,No
+1320,33,Female,Engineering,QA Engineer,11,5,1,9060,108700,4,4,3,Yes,1.8,Single,Engineering,No
+1321,33,Male,Customer Support,Support Manager,4,3,2,4140,49700,4,1,3,No,4.4,Married,Marketing,No
+1322,27,Male,Sales,Sales Executive,1,1,0,3080,36900,4,2,3,Yes,2.1,Single,Marketing,Yes
+1323,25,Female,Engineering,Engineering Manager,7,1,1,8520,102200,4,4,1,No,17.1,Married,Engineering,No
+1324,35,Male,Marketing,Content Specialist,1,1,1,4820,57900,3,3,3,Yes,6.4,Divorced,Engineering,No
+1325,20,Male,Engineering,Senior Engineer,13,9,2,9450,113400,4,2,3,No,10.6,Married,Business,No
+1326,39,Male,Marketing,Content Specialist,10,4,2,6240,74900,1,3,3,No,5.2,Divorced,Business,No
+1327,40,Male,Engineering,Engineering Manager,12,2,0,8800,105600,3,4,3,No,6.0,Single,Business,No
+1328,47,Female,Engineering,QA Engineer,2,2,0,7890,94700,3,3,2,No,3.1,Divorced,Engineering,No
+1329,39,Male,Finance,Financial Analyst,4,2,1,6870,82400,2,3,2,Yes,1.2,Divorced,Engineering,No
+1330,35,Male,Sales,Sales Manager,0,0,0,4320,51900,4,3,4,Yes,6.3,Married,Engineering,No
+1331,37,Male,Finance,Financial Analyst,13,1,1,8180,98200,3,2,2,Yes,4.1,Divorced,Other,No
+1332,30,Male,Marketing,Marketing Manager,2,2,0,3040,36500,4,3,3,No,34.8,Married,Other,No
+1333,33,Male,HR,HR Manager,14,5,1,7020,84200,2,3,2,Yes,5.2,Divorced,Other,No
+1334,42,Male,HR,HR Executive,2,0,0,3550,42600,4,3,4,No,10.4,Single,Business,No
+1335,37,Male,Engineering,Software Engineer,2,2,0,6560,78700,4,4,4,Yes,1.9,Single,Engineering,No
+1336,47,Female,Sales,Account Manager,8,3,3,7020,84200,4,4,4,Yes,9.1,Single,Business,No
+1337,42,Male,Marketing,Marketing Manager,16,1,1,6780,81400,1,3,4,Yes,1.7,Single,Marketing,Yes
+1338,37,Female,Marketing,Marketing Associate,10,1,1,5230,62800,3,4,2,No,8.2,Divorced,Business,No
+1339,30,Male,Finance,Financial Analyst,5,5,0,5240,62900,4,1,3,No,6.8,Single,HR,No
+1340,30,Female,Marketing,Marketing Associate,10,8,0,5850,70200,2,3,3,No,8.3,Married,HR,No
+1341,30,Female,Engineering,Software Engineer,8,4,3,8480,101700,4,3,4,No,14.2,Married,Engineering,No
+1342,32,Female,Engineering,Senior Engineer,10,0,0,9890,118700,4,2,4,No,1.8,Married,Business,No
+1343,42,Male,Engineering,Senior Engineer,9,3,3,10260,123100,4,4,3,No,1.2,Married,HR,No
+1344,20,Female,HR,HR Manager,0,0,0,4400,52800,4,2,2,No,15.4,Single,Business,No
+1345,40,Male,Sales,Account Manager,4,4,0,5350,64200,2,3,2,Yes,8.3,Married,Business,Yes
+1346,20,Female,Engineering,Engineering Manager,7,2,0,7480,89700,4,4,3,No,10.0,Married,Engineering,Yes
+1347,20,Female,Customer Support,Support Manager,7,1,1,4560,54700,2,4,2,No,5.4,Single,Business,No
+1348,32,Male,Engineering,Software Engineer,5,0,0,7180,86200,2,4,2,Yes,1.0,Single,Business,No
+1349,46,Male,Finance,Accountant,11,1,0,5860,70300,3,3,3,No,17.3,Single,HR,No
+1350,34,Female,Engineering,Engineering Manager,7,7,4,8410,100900,3,3,3,Yes,6.4,Single,Engineering,No
+1351,35,Female,Marketing,Marketing Associate,9,1,1,5050,60600,3,3,4,Yes,1.0,Married,Engineering,Yes
+1352,29,Male,HR,Recruiter,11,0,0,6370,76400,3,4,3,Yes,11.4,Single,Marketing,No
+1353,29,Female,Marketing,Marketing Manager,6,0,0,5450,65400,3,4,2,No,1.5,Divorced,Business,No
+1354,39,Female,Finance,Accountant,6,0,0,5910,70900,3,3,1,Yes,1.0,Married,Engineering,No
+1355,24,Female,Marketing,Marketing Associate,14,1,0,7180,86200,3,1,3,No,8.7,Divorced,Business,No
+1356,31,Female,HR,Recruiter,8,7,2,5910,70900,2,1,3,No,5.4,Single,Marketing,No
+1357,33,Male,Customer Support,Support Lead,6,0,0,4970,59600,1,2,1,No,12.5,Single,Business,Yes
+1358,29,Female,Engineering,Senior Engineer,9,2,0,7740,92900,3,3,3,No,22.2,Married,Engineering,No
+1359,40,Male,Engineering,QA Engineer,5,1,0,8120,97500,2,4,2,No,2.4,Single,Engineering,No
+1360,39,Female,Customer Support,Support Associate,6,6,1,3980,47800,4,2,4,No,1.6,Divorced,Marketing,No
+1361,36,Female,Marketing,Marketing Associate,5,1,0,5280,63300,2,3,2,No,4.9,Married,Business,No
+1362,24,Male,Engineering,Senior Engineer,11,11,0,9320,111900,2,2,3,Yes,1.6,Single,Business,No
+1363,20,Male,Finance,Accountant,11,5,4,7920,95100,4,3,3,Yes,4.7,Married,Other,No
+1364,44,Male,Sales,Sales Executive,20,3,3,8780,105300,2,4,3,No,15.5,Married,Business,No
+1365,32,Female,Sales,Sales Manager,5,5,3,5140,61700,4,4,3,No,7.3,Married,Other,No
+1366,23,Female,Marketing,Marketing Associate,19,0,0,6880,82500,4,3,4,Yes,2.1,Single,Engineering,No
+1367,51,Female,Marketing,Marketing Manager,9,3,2,6680,80200,1,3,3,No,14.2,Married,Engineering,No
+1368,23,Female,Finance,Financial Analyst,7,0,0,5780,69400,3,4,3,Yes,6.4,Married,Engineering,No
+1369,42,Male,Customer Support,Support Manager,3,3,1,4070,48800,3,2,2,No,1.3,Married,Engineering,No
+1370,27,Male,Sales,Sales Executive,8,0,0,6280,75400,2,3,3,No,4.9,Married,Business,Yes
+1371,43,Female,Customer Support,Support Lead,9,3,3,4880,58600,3,2,3,No,8.4,Single,Business,No
+1372,27,Male,HR,HR Manager,11,2,0,6790,81500,2,1,3,Yes,2.7,Married,Marketing,No
+1373,52,Male,HR,HR Manager,13,5,2,6680,80100,4,2,4,No,6.7,Married,Business,No
+1374,36,Male,Marketing,Content Specialist,12,2,1,6000,72000,4,4,4,Yes,15.3,Single,Business,No
+1375,35,Female,Engineering,Engineering Manager,13,1,1,9190,110300,4,3,3,No,1.5,Single,Engineering,No
+1376,28,Male,Sales,Account Manager,2,1,0,4290,51500,3,2,3,Yes,19.3,Divorced,Marketing,Yes
+1377,27,Female,Sales,Sales Executive,6,6,0,4720,56600,2,2,2,No,19.6,Married,Engineering,No
+1378,52,Male,Sales,Sales Executive,10,0,0,5690,68300,4,2,3,Yes,2.0,Married,Engineering,No
+1379,39,Male,Customer Support,Support Manager,6,6,2,4120,49400,3,2,2,Yes,1.0,Married,Business,No
+1380,36,Male,Marketing,Content Specialist,7,7,2,5710,68500,3,3,3,Yes,4.8,Married,Business,No
+1381,23,Male,Marketing,Marketing Associate,16,3,3,7820,93800,2,3,3,Yes,15.9,Single,Engineering,No
+1382,26,Male,Customer Support,Support Associate,2,2,0,3810,45700,4,3,3,Yes,14.4,Single,Marketing,Yes
+1383,51,Female,Finance,Financial Analyst,14,11,2,7950,95400,3,3,3,Yes,7.7,Single,Other,No
+1384,34,Female,Sales,Sales Manager,14,0,0,6720,80700,4,2,3,No,18.9,Single,Business,No
+1385,50,Female,Marketing,Marketing Associate,10,1,0,5860,70300,2,3,2,Yes,8.7,Married,Other,Yes
+1386,22,Male,Marketing,Content Specialist,10,4,1,6450,77400,4,1,3,Yes,1.0,Married,HR,No
+1387,25,Male,Finance,Accountant,15,3,2,7870,94400,3,1,3,No,28.5,Married,Other,No
+1388,44,Female,Engineering,Engineering Manager,10,1,0,9120,109500,3,2,4,No,1.0,Divorced,Other,No
+1389,43,Male,Customer Support,Support Lead,0,0,0,3550,42600,3,2,3,No,5.2,Single,Engineering,No
+1390,50,Male,Sales,Sales Executive,14,1,1,6810,81700,4,3,3,Yes,4.8,Divorced,Other,No
+1391,38,Male,Finance,Finance Manager,0,0,0,4830,58000,2,1,3,Yes,8.8,Single,Engineering,Yes
+1392,33,Female,Engineering,Senior Engineer,0,0,0,6310,75700,4,1,4,No,6.2,Married,Business,No
+1393,35,Female,Marketing,Marketing Associate,13,7,2,6680,80100,3,3,3,No,18.0,Married,Marketing,No
+1394,41,Male,Engineering,Engineering Manager,7,0,0,8760,105100,1,4,4,No,4.3,Single,Engineering,Yes
+1395,52,Male,Marketing,Marketing Associate,13,1,1,4980,59800,3,3,3,No,5.0,Divorced,Other,No
+1396,34,Male,Sales,Sales Manager,0,0,0,3780,45300,4,2,3,No,4.5,Single,HR,Yes
+1397,23,Male,Customer Support,Support Manager,3,1,1,3280,39300,3,2,4,No,4.8,Single,Business,No
+1398,36,Male,Engineering,Senior Engineer,7,2,0,7440,89300,1,4,3,No,1.4,Married,Engineering,No
+1399,46,Male,Customer Support,Support Manager,2,2,1,3430,41200,4,2,4,No,1.0,Single,Other,No
+1400,30,Female,Marketing,Marketing Associate,6,0,0,6290,75500,4,3,3,Yes,1.1,Married,Business,No
+1401,20,Male,Engineering,QA Engineer,12,2,0,9710,116500,2,1,2,No,1.4,Married,Engineering,No
+1402,27,Male,HR,HR Executive,6,0,0,6060,72700,3,2,3,No,2.6,Married,Marketing,No
+1403,33,Male,Finance,Finance Manager,4,0,0,4790,57500,4,2,3,No,2.9,Married,Other,No
+1404,27,Female,Marketing,Content Specialist,15,2,2,6720,80700,4,3,3,No,7.2,Divorced,Engineering,No
+1405,33,Male,Finance,Financial Analyst,5,1,1,5220,62700,4,4,4,No,6.7,Married,Engineering,No
+1406,23,Male,Engineering,Engineering Manager,12,5,4,8630,103600,2,2,3,No,2.2,Single,Marketing,No
+1407,41,Female,Customer Support,Support Associate,3,0,0,4360,52300,1,4,3,No,24.3,Single,Other,Yes
+1408,35,Male,Marketing,Marketing Associate,9,5,2,5910,70900,1,2,2,Yes,5.4,Single,Business,Yes
+1409,34,Male,Engineering,QA Engineer,7,0,0,7970,95600,3,2,2,Yes,13.2,Divorced,Engineering,No
+1410,39,Female,HR,Recruiter,17,1,1,8780,105400,1,3,3,No,21.7,Married,Other,Yes
+1411,37,Male,Engineering,Software Engineer,5,0,0,7970,95600,4,1,3,No,13.2,Single,Business,No
+1412,31,Female,Sales,Sales Executive,14,5,1,6560,78700,1,2,3,Yes,7.9,Single,Business,Yes
+1413,26,Female,Marketing,Content Specialist,7,0,0,5680,68200,2,2,2,Yes,10.1,Married,Engineering,Yes
+1414,33,Male,Customer Support,Support Associate,14,0,0,3340,40100,4,2,3,No,18.9,Married,Business,Yes
+1415,53,Female,Engineering,Engineering Manager,11,3,0,7530,90400,4,2,2,No,6.0,Married,HR,No
+1416,42,Male,Sales,Sales Executive,2,2,0,5180,62200,4,2,2,No,1.0,Single,HR,No
+1417,26,Male,Engineering,Engineering Manager,15,1,0,8910,106900,1,4,3,No,18.5,Married,Engineering,No
+1418,30,Female,Engineering,QA Engineer,16,5,4,9920,119100,2,4,3,No,1.0,Married,Marketing,No
+1419,39,Male,Engineering,Software Engineer,9,1,0,8190,98300,3,3,2,Yes,1.2,Single,Engineering,No
+1420,20,Female,Customer Support,Support Manager,5,1,1,4380,52600,3,3,3,No,2.0,Single,Other,No
+1421,35,Male,Finance,Finance Manager,17,2,0,8390,100700,2,4,3,Yes,1.0,Married,Business,Yes
+1422,37,Female,Finance,Financial Analyst,7,2,0,6230,74800,4,1,4,Yes,8.1,Single,Business,No
+1423,42,Female,HR,HR Manager,6,1,1,4070,48800,4,4,4,No,19.3,Single,Business,No
+1424,24,Male,Sales,Sales Manager,19,8,1,6880,82500,4,4,3,No,6.9,Single,Other,No
+1425,33,Male,Sales,Sales Executive,7,2,0,5850,70200,4,4,2,Yes,10.3,Single,Business,No
+1426,26,Male,Customer Support,Support Manager,14,0,0,4940,59300,2,3,3,No,7.5,Single,Business,Yes
+1427,35,Female,Sales,Sales Manager,16,3,1,6420,77100,1,1,3,Yes,6.5,Single,Business,Yes
+1428,39,Female,Finance,Financial Analyst,5,0,0,6580,78900,3,2,4,No,3.4,Married,Engineering,No
+1429,31,Female,Sales,Account Manager,10,10,0,5280,63400,2,4,4,Yes,11.7,Married,HR,Yes
+1430,39,Male,Sales,Sales Manager,7,0,0,4720,56600,4,3,3,No,1.2,Divorced,Business,No
+1431,38,Female,HR,HR Manager,13,1,1,6280,75300,4,4,2,No,1.7,Married,Business,No
+1432,28,Female,Marketing,Marketing Associate,7,3,0,6110,73300,4,4,3,No,4.8,Single,Marketing,No
+1433,20,Male,Engineering,QA Engineer,21,4,2,10870,130400,3,3,3,No,7.0,Divorced,Marketing,Yes
+1434,25,Male,Customer Support,Support Associate,5,3,0,4220,50600,3,4,3,No,7.5,Single,Marketing,Yes
+1435,34,Male,Engineering,Engineering Manager,17,0,0,9780,117300,4,4,3,No,5.4,Married,Engineering,No
+1436,38,Male,HR,Recruiter,1,1,1,4620,55500,4,3,3,No,22.9,Single,Marketing,No
+1437,47,Male,Finance,Financial Analyst,4,1,1,4410,52900,4,4,3,No,8.0,Married,Engineering,No
+1438,40,Female,Customer Support,Support Manager,0,0,0,3890,46700,4,1,2,Yes,8.7,Married,Engineering,No
+1439,32,Male,Customer Support,Support Lead,3,1,1,3490,41900,4,3,3,No,6.6,Married,Engineering,No
+1440,23,Female,Engineering,Engineering Manager,13,0,0,8800,105600,1,4,3,Yes,12.7,Single,Engineering,No
+1441,30,Male,Engineering,Senior Engineer,3,3,3,7810,93700,4,2,3,Yes,1.0,Married,Engineering,Yes
+1442,47,Male,Engineering,Engineering Manager,4,4,0,8340,100100,4,4,3,No,2.5,Married,Business,No
+1443,44,Female,Customer Support,Support Associate,4,4,2,4820,57800,3,3,3,No,6.0,Married,Marketing,No
+1444,34,Male,Marketing,Content Specialist,11,6,1,7090,85100,4,1,3,No,1.4,Single,Engineering,Yes
+1445,45,Male,Finance,Finance Manager,4,0,0,6300,75600,4,4,3,No,5.5,Divorced,Other,No
+1446,26,Female,Finance,Finance Manager,8,5,5,6650,79800,4,4,2,Yes,1.0,Married,Marketing,No
+1447,41,Male,Engineering,Software Engineer,16,0,0,9670,116000,3,4,3,No,5.6,Single,Business,No
+1448,56,Male,HR,HR Manager,0,0,0,4500,54000,3,3,3,No,11.5,Married,Engineering,No
+1449,25,Female,Sales,Account Manager,12,7,0,5220,62600,1,3,2,No,14.5,Divorced,HR,Yes
+1450,55,Female,Sales,Account Manager,8,2,0,6550,78600,3,4,3,No,5.6,Married,HR,No
+1451,20,Male,Engineering,QA Engineer,10,6,1,8370,100400,4,2,4,Yes,1.0,Married,Marketing,No
+1452,48,Female,Engineering,Software Engineer,1,1,1,5300,63600,1,4,3,No,1.3,Married,HR,Yes
+1453,46,Female,Customer Support,Support Lead,5,0,0,3580,42900,2,3,4,No,4.2,Single,Business,No
+1454,27,Male,Customer Support,Support Manager,2,0,0,3870,46400,3,2,3,No,10.9,Single,Marketing,No
+1455,47,Male,Customer Support,Support Manager,6,0,0,3580,42900,3,4,3,No,6.8,Married,HR,Yes
+1456,24,Male,Engineering,Engineering Manager,8,5,3,7580,91000,3,4,2,No,10.1,Married,Other,No
+1457,29,Male,Sales,Account Manager,13,3,0,6050,72600,2,2,4,No,2.8,Married,Business,Yes
+1458,28,Female,Engineering,Engineering Manager,9,7,0,8780,105300,3,3,3,Yes,2.7,Married,Engineering,No
+1459,40,Male,Sales,Sales Executive,10,10,2,6520,78300,4,4,2,Yes,4.3,Single,Engineering,No
+1460,36,Male,Customer Support,Support Manager,10,1,0,5420,65000,2,2,3,No,6.5,Married,Engineering,No
+1461,20,Male,Customer Support,Support Associate,3,1,1,4420,53000,2,2,3,No,9.2,Married,Business,Yes
+1462,20,Female,Engineering,Software Engineer,1,0,0,6420,77100,4,1,2,No,2.6,Married,HR,No
+1463,30,Male,Sales,Sales Executive,4,0,0,4830,58000,4,2,3,Yes,20.1,Married,Marketing,No
+1464,38,Female,Finance,Finance Manager,10,1,0,6660,79900,4,1,3,No,1.0,Married,Business,No
+1465,41,Male,Customer Support,Support Lead,8,5,2,4120,49500,3,4,3,No,2.0,Married,Other,No
+1466,42,Male,Engineering,Software Engineer,3,1,0,6180,74100,1,2,4,No,9.8,Single,Marketing,Yes
+1467,33,Male,Engineering,Software Engineer,11,2,1,8450,101400,1,2,2,No,7.1,Married,Business,Yes
+1468,24,Female,Engineering,Engineering Manager,13,1,0,9080,109000,2,4,3,Yes,4.3,Single,Business,Yes
+1469,53,Male,Engineering,QA Engineer,0,0,0,5580,66900,4,4,2,No,8.9,Single,Marketing,No
+1470,35,Female,Customer Support,Support Associate,8,4,0,4510,54100,2,4,4,Yes,9.2,Divorced,Engineering,Yes
+1471,48,Male,Sales,Sales Manager,4,0,0,5920,71000,1,2,3,No,7.8,Single,Marketing,Yes
+1472,32,Male,Sales,Sales Executive,12,1,1,5410,64900,1,4,3,Yes,7.6,Married,Business,Yes
+1473,36,Female,Engineering,Software Engineer,7,5,1,9620,115400,3,3,3,No,1.0,Married,Engineering,No
+1474,37,Male,Engineering,Software Engineer,8,5,0,7710,92500,4,2,4,No,21.1,Divorced,Engineering,No
+1475,26,Male,Customer Support,Support Associate,11,6,1,5290,63500,3,3,3,Yes,1.0,Married,HR,No
+1476,50,Female,HR,HR Manager,6,4,2,6200,74400,1,3,3,Yes,15.7,Married,Business,Yes
+1477,31,Female,Sales,Sales Executive,6,0,0,5800,69600,3,3,4,No,15.7,Single,Other,Yes
+1478,34,Female,Marketing,Content Specialist,0,0,0,4320,51900,1,3,4,No,28.7,Single,Engineering,Yes
+1479,38,Female,Engineering,QA Engineer,7,0,0,8580,102900,3,3,3,Yes,8.2,Single,Business,No
+1480,33,Male,Customer Support,Support Associate,7,0,0,4910,58900,4,2,3,No,9.6,Married,Business,No
+1481,42,Female,Engineering,Senior Engineer,6,5,2,9080,108900,4,2,4,No,5.7,Single,Business,No
+1482,26,Male,Customer Support,Support Associate,2,2,0,3600,43200,1,3,4,No,31.8,Single,Business,Yes
+1483,35,Male,Customer Support,Support Lead,11,3,1,5530,66400,3,4,1,No,18.7,Married,HR,No
+1484,36,Male,Engineering,Software Engineer,4,3,0,8910,106900,3,2,2,No,5.3,Divorced,Business,No
+1485,38,Male,Engineering,QA Engineer,0,0,0,7780,93300,4,1,2,No,3.3,Married,Other,Yes
+1486,37,Female,Engineering,QA Engineer,6,1,0,7790,93500,4,4,3,No,20.5,Married,HR,No
+1487,31,Female,Marketing,Content Specialist,15,7,3,5820,69800,3,1,3,No,1.8,Divorced,Engineering,No
+1488,38,Male,Sales,Sales Executive,3,1,1,3100,37200,2,4,2,Yes,1.0,Divorced,Engineering,Yes
+1489,24,Female,HR,Recruiter,1,0,0,4650,55800,4,2,3,No,3.7,Single,Other,No
+1490,20,Female,Finance,Accountant,6,3,0,5980,71700,3,3,3,No,2.7,Married,Engineering,No
+1491,36,Female,Marketing,Content Specialist,10,3,0,5320,63800,3,2,3,No,6.5,Single,Marketing,No
+1492,52,Male,Marketing,Content Specialist,8,1,0,4710,56500,4,2,3,No,10.3,Single,Business,No
+1493,40,Male,Marketing,Marketing Manager,13,2,2,5980,71700,3,4,2,No,6.3,Married,Marketing,No
+1494,25,Female,HR,HR Manager,12,4,1,6170,74000,4,4,4,Yes,3.4,Married,Marketing,No
+1495,33,Male,Sales,Sales Executive,1,1,1,4280,51400,4,2,3,No,14.6,Married,Other,No
+1496,33,Male,Engineering,Engineering Manager,0,0,0,6510,78100,3,2,2,No,11.3,Married,Marketing,Yes
+1497,24,Male,Sales,Sales Manager,4,0,0,5680,68200,1,3,2,Yes,4.9,Single,Business,Yes
+1498,20,Male,Engineering,Software Engineer,9,9,0,7420,89100,2,1,3,Yes,21.1,Single,Business,No
+1499,35,Female,Finance,Accountant,6,0,0,6290,75500,4,2,3,No,16.7,Married,Business,No
+1500,32,Male,Marketing,Marketing Associate,8,0,0,6060,72700,4,2,3,No,10.5,Single,Engineering,No
+1501,54,Male,HR,Recruiter,4,4,4,5140,61700,3,4,2,Yes,12.2,Married,HR,Yes
+1502,30,Female,Engineering,Senior Engineer,17,4,1,9240,110900,3,3,2,No,11.4,Married,Marketing,No
+1503,36,Female,Engineering,Senior Engineer,13,3,1,10020,120300,2,1,3,No,2.6,Divorced,Engineering,No
+1504,36,Female,Marketing,Marketing Manager,10,5,2,5970,71600,3,3,3,No,1.0,Divorced,Business,No
+1505,52,Male,Marketing,Marketing Manager,8,0,0,5190,62300,2,2,3,Yes,10.6,Single,Business,Yes
+1506,40,Female,Sales,Account Manager,0,0,0,4530,54400,2,3,4,No,16.4,Married,Business,Yes
+1507,40,Male,Engineering,Senior Engineer,0,0,0,7290,87500,4,3,3,No,12.8,Divorced,HR,Yes
+1508,38,Male,Engineering,QA Engineer,5,0,0,7550,90600,3,3,3,No,5.8,Single,Business,No
+1509,40,Male,Engineering,Engineering Manager,16,2,2,11060,132700,3,2,1,No,8.7,Single,Marketing,No
+1510,25,Male,HR,Recruiter,6,0,0,4880,58600,4,3,3,No,2.6,Married,Business,No
+1511,34,Female,Marketing,Marketing Manager,4,3,3,3760,45100,2,2,3,No,6.4,Married,Engineering,Yes
+1512,25,Female,Sales,Sales Executive,10,3,0,5500,66000,3,3,3,Yes,9.9,Married,Business,No
+1513,36,Female,Finance,Accountant,11,1,1,7760,93100,4,3,4,Yes,1.2,Single,Business,No
+1514,35,Female,Sales,Sales Executive,0,0,0,4580,54900,4,2,3,Yes,1.0,Single,Business,Yes
+1515,25,Female,Finance,Financial Analyst,7,7,3,7040,84500,4,2,3,No,1.0,Married,Business,No
+1516,38,Male,Engineering,QA Engineer,9,3,3,8920,107100,4,2,4,No,13.9,Divorced,Engineering,No
+1517,24,Female,HR,Recruiter,1,1,1,4150,49800,4,3,3,No,1.0,Married,Engineering,No
+1518,32,Male,HR,HR Manager,10,0,0,5980,71800,3,4,4,No,7.7,Married,Engineering,No
+1519,31,Male,Customer Support,Support Associate,13,0,0,5440,65300,3,2,3,No,3.6,Divorced,Other,No
+1520,38,Female,Sales,Account Manager,3,3,1,3280,39300,3,4,3,No,2.2,Married,Engineering,No
+1521,36,Female,Engineering,Senior Engineer,15,0,0,10660,127900,3,3,2,No,1.4,Married,Business,No
+1522,48,Male,HR,HR Executive,9,5,5,5010,60100,1,1,4,No,30.8,Married,Engineering,Yes
+1523,56,Female,Engineering,QA Engineer,21,2,2,11760,141100,3,3,2,No,18.4,Divorced,Business,No
+1524,31,Male,Engineering,QA Engineer,4,0,0,8310,99700,4,3,2,No,5.2,Married,Other,No
+1525,36,Female,Engineering,Senior Engineer,3,3,3,6580,78900,2,1,4,No,1.0,Married,Engineering,No
+1526,30,Male,Engineering,Engineering Manager,8,1,1,7990,95900,1,4,2,Yes,11.2,Married,Other,No
+1527,41,Female,HR,HR Executive,12,1,0,6270,75200,2,3,2,Yes,2.3,Divorced,Business,No
+1528,35,Female,Customer Support,Support Manager,0,0,0,3430,41200,2,3,3,No,5.2,Married,Marketing,Yes
+1529,34,Male,Finance,Accountant,12,0,0,8240,98900,2,1,3,No,12.2,Married,Marketing,No
+1530,47,Female,Sales,Sales Manager,10,0,0,6620,79400,4,3,3,No,1.3,Divorced,Marketing,No
+1531,23,Male,HR,HR Manager,9,1,1,5610,67300,4,4,2,Yes,5.1,Married,Other,No
+1532,30,Male,Customer Support,Support Lead,6,2,1,4940,59300,2,4,3,No,23.6,Married,Engineering,No
+1533,39,Male,HR,HR Executive,7,1,0,5310,63700,1,4,3,Yes,5.9,Married,Business,Yes
+1534,41,Male,Customer Support,Support Manager,10,3,3,4980,59700,3,3,3,Yes,1.0,Single,Business,No
+1535,49,Female,Finance,Financial Analyst,9,4,1,6900,82800,4,1,1,No,5.9,Single,HR,No
+1536,24,Female,Customer Support,Support Lead,10,4,0,4990,59900,3,3,3,No,5.5,Divorced,Business,Yes
+1537,35,Female,Sales,Account Manager,7,3,2,5240,62900,4,1,3,No,21.5,Married,Engineering,Yes
+1538,38,Male,Sales,Account Manager,1,1,1,4550,54600,4,2,3,No,1.8,Married,HR,No
+1539,38,Female,HR,HR Executive,5,5,3,6050,72600,1,2,3,No,15.8,Single,Engineering,No
+1540,36,Female,Sales,Account Manager,18,0,0,6430,77200,3,3,1,No,1.3,Married,Engineering,No
+1541,43,Male,Finance,Accountant,12,1,0,8150,97800,3,1,4,No,1.9,Single,Marketing,No
+1542,38,Female,Marketing,Marketing Manager,0,0,0,4830,58000,4,1,4,No,12.8,Married,Business,No
+1543,29,Female,Sales,Account Manager,3,3,0,5420,65100,1,3,2,No,1.6,Married,Other,Yes
+1544,44,Female,Engineering,Senior Engineer,3,1,1,8780,105400,4,3,3,Yes,1.0,Married,HR,No
+1545,33,Female,Customer Support,Support Lead,7,0,0,5010,60100,4,2,2,No,1.0,Married,Business,No
+1546,40,Male,Sales,Sales Executive,9,0,0,4990,59900,4,3,4,Yes,3.0,Single,Business,Yes
+1547,39,Male,Engineering,Engineering Manager,16,1,1,8220,98600,4,3,3,Yes,10.3,Married,Business,No
+1548,43,Male,Engineering,Software Engineer,0,0,0,5440,65300,3,2,3,Yes,10.4,Divorced,Engineering,No
+1549,44,Female,Customer Support,Support Lead,5,5,5,3160,37900,3,3,4,Yes,1.6,Married,Engineering,Yes
+1550,36,Male,Customer Support,Support Manager,0,0,0,3350,40200,3,2,4,Yes,8.9,Single,Other,Yes
+1551,52,Male,HR,HR Executive,14,2,2,6470,77600,3,3,3,No,1.5,Married,Business,Yes
+1552,43,Male,Sales,Sales Executive,7,3,2,4880,58600,3,2,2,No,1.0,Married,Business,Yes
+1553,39,Male,Marketing,Content Specialist,6,0,0,6660,79900,3,2,4,No,1.8,Divorced,Business,Yes
+1554,47,Male,Sales,Sales Manager,5,1,0,4950,59400,1,3,4,No,2.6,Single,Marketing,Yes
+1555,34,Male,HR,HR Executive,2,2,1,4620,55400,2,4,4,No,2.4,Divorced,Business,No
+1556,40,Male,Customer Support,Support Manager,9,5,2,4200,50400,1,3,3,Yes,17.2,Single,Engineering,Yes
+1557,50,Female,HR,HR Manager,7,1,0,5620,67500,3,3,4,No,1.9,Married,Other,No
+1558,22,Female,HR,Recruiter,12,5,5,6590,79100,4,3,4,No,8.6,Single,Other,No
+1559,20,Female,HR,HR Executive,4,0,0,5290,63500,3,2,3,No,26.6,Married,Business,Yes
+1560,32,Male,Customer Support,Support Associate,2,2,1,3350,40200,3,2,4,Yes,1.2,Married,Other,Yes
+1561,34,Male,Sales,Sales Executive,9,2,0,6500,78000,1,2,3,No,3.4,Single,Other,Yes
+1562,35,Male,HR,Recruiter,10,1,1,6020,72200,2,2,3,No,1.8,Married,Engineering,Yes
+1563,55,Male,Marketing,Marketing Manager,0,0,0,5030,60400,2,4,3,No,1.0,Divorced,Business,Yes
+1564,43,Female,Engineering,Engineering Manager,10,2,1,9400,112800,3,3,3,No,4.7,Divorced,Other,No
+1565,50,Female,Customer Support,Support Manager,7,7,2,3900,46800,2,1,3,No,12.9,Single,Marketing,No
+1566,31,Male,HR,HR Manager,10,2,2,5800,69600,4,4,2,Yes,1.0,Married,Other,No
+1567,36,Male,HR,HR Manager,10,1,1,6430,77200,4,2,3,No,5.2,Married,Engineering,No
+1568,37,Male,Marketing,Marketing Associate,15,2,0,5610,67300,3,3,3,No,5.0,Single,Other,No
+1569,40,Male,Customer Support,Support Manager,9,9,5,4830,58000,3,3,2,No,7.7,Married,Marketing,No
+1570,35,Male,Sales,Account Manager,6,5,5,4780,57300,4,3,3,No,1.1,Married,Other,No
+1571,24,Male,HR,HR Manager,3,2,0,4890,58700,2,3,3,No,5.8,Single,Other,Yes
+1572,20,Male,Finance,Financial Analyst,12,3,0,7130,85600,4,2,4,Yes,5.6,Single,Other,No
+1573,44,Female,Finance,Accountant,11,4,0,7220,86700,4,4,2,No,1.0,Divorced,Engineering,No
+1574,45,Male,Engineering,Engineering Manager,7,1,0,8760,105100,4,4,3,Yes,1.0,Married,HR,No
+1575,31,Male,Engineering,Software Engineer,4,1,1,7060,84700,4,1,3,No,6.8,Single,Business,No
+1576,43,Male,Customer Support,Support Manager,3,2,2,3180,38200,4,4,2,No,2.2,Single,Business,No
+1577,45,Male,Customer Support,Support Associate,13,0,0,5690,68300,3,3,3,No,7.2,Single,Business,Yes
+1578,41,Female,Finance,Finance Manager,2,1,1,5520,66200,1,3,3,Yes,4.0,Married,Business,Yes
+1579,34,Male,Customer Support,Support Manager,9,1,1,4420,53100,2,3,3,Yes,22.9,Divorced,Business,Yes
+1580,20,Female,Marketing,Marketing Associate,11,3,2,5570,66800,4,1,1,No,18.5,Married,Business,No
+1581,35,Male,Finance,Finance Manager,9,0,0,6280,75400,3,4,3,No,1.0,Divorced,Other,No
+1582,34,Male,Engineering,Senior Engineer,12,3,0,10060,120700,4,1,2,No,5.4,Divorced,Business,No
+1583,20,Male,Marketing,Marketing Manager,3,3,3,5080,61000,1,1,3,No,5.8,Married,Business,Yes
+1584,44,Male,Customer Support,Support Associate,9,2,2,5380,64600,4,3,2,Yes,17.5,Divorced,Engineering,No
+1585,37,Male,Sales,Sales Executive,14,2,0,6700,80400,2,4,3,No,8.6,Single,Business,Yes
+1586,25,Male,Sales,Account Manager,6,6,2,3920,47100,3,2,4,No,1.4,Married,Business,No
+1587,31,Male,Engineering,Engineering Manager,10,1,0,8930,107200,3,4,2,No,6.6,Married,Other,No
+1588,34,Male,Marketing,Marketing Associate,9,0,0,6440,77300,2,3,3,No,3.2,Single,Business,Yes
+1589,27,Female,Customer Support,Support Associate,0,0,0,3530,42400,3,2,3,No,1.0,Single,Engineering,No
+1590,34,Male,Engineering,Engineering Manager,9,5,0,6610,79300,2,2,3,No,10.3,Married,Marketing,Yes
+1591,53,Male,HR,Recruiter,8,8,0,5980,71800,3,2,4,No,9.1,Married,Business,No
+1592,48,Male,Customer Support,Support Manager,9,0,0,3990,47900,4,4,4,No,3.0,Married,HR,No
+1593,27,Male,Sales,Sales Executive,14,3,1,6920,83100,2,4,3,No,5.7,Single,Marketing,No
+1594,39,Female,Finance,Financial Analyst,9,0,0,6160,73900,4,1,3,No,5.1,Divorced,Engineering,No
+1595,39,Female,Finance,Accountant,8,0,0,5410,64900,4,2,3,Yes,7.2,Single,Marketing,No
+1596,33,Female,Engineering,Senior Engineer,0,0,0,5950,71400,2,3,1,Yes,4.9,Divorced,HR,No
+1597,33,Female,Customer Support,Support Associate,7,5,1,3130,37600,3,4,4,No,2.4,Married,Engineering,No
+1598,46,Female,Marketing,Content Specialist,0,0,0,4730,56800,2,1,3,No,7.2,Married,Other,Yes
+1599,38,Female,Finance,Financial Analyst,12,0,0,7720,92600,4,3,3,Yes,1.9,Married,HR,No
+1600,43,Male,Customer Support,Support Manager,3,3,2,4430,53200,1,4,2,Yes,18.9,Single,Engineering,No
+1601,30,Male,Customer Support,Support Manager,11,6,6,5000,60000,3,3,3,No,3.3,Single,Engineering,No
+1602,37,Male,Engineering,Engineering Manager,9,5,1,7410,88900,4,3,3,No,5.8,Married,Business,No
+1603,20,Male,Engineering,QA Engineer,10,0,0,7750,93000,2,3,2,Yes,4.9,Married,HR,Yes
+1604,36,Female,Finance,Finance Manager,0,0,0,5360,64300,1,3,4,Yes,6.4,Married,HR,Yes
+1605,22,Male,Engineering,Software Engineer,5,2,1,7040,84500,3,4,2,No,12.3,Married,Business,No
+1606,42,Female,Customer Support,Support Manager,5,5,4,3800,45600,2,1,3,No,24.5,Single,Engineering,Yes
+1607,37,Male,Sales,Sales Executive,6,6,0,5980,71700,2,2,3,Yes,1.4,Single,Other,No
+1608,20,Male,Customer Support,Support Lead,8,8,2,4490,53900,2,4,3,Yes,1.0,Single,Marketing,No
+1609,30,Female,Engineering,QA Engineer,10,2,2,8840,106100,4,1,4,No,7.5,Divorced,Marketing,No
+1610,35,Female,Marketing,Marketing Manager,6,6,3,4580,54900,1,2,2,No,11.6,Single,Business,Yes
+1611,32,Female,Marketing,Marketing Associate,5,5,2,3340,40100,4,4,3,Yes,6.1,Divorced,Marketing,No
+1612,39,Male,Sales,Account Manager,9,4,4,5850,70200,3,2,4,Yes,5.7,Divorced,Other,No
+1613,47,Male,Marketing,Marketing Manager,6,6,3,5000,60000,4,2,2,No,1.9,Married,Other,No
+1614,52,Female,Marketing,Content Specialist,12,4,0,7090,85100,4,3,3,Yes,17.9,Single,Business,No
+1615,37,Male,Engineering,Engineering Manager,9,9,0,7920,95000,4,3,3,No,2.3,Married,Business,No
+1616,38,Female,Sales,Sales Executive,12,3,3,6820,81900,2,3,4,Yes,9.4,Married,Business,No
+1617,51,Male,Sales,Sales Manager,2,0,0,4880,58600,4,3,3,No,6.4,Married,Engineering,No
+1618,28,Male,Marketing,Content Specialist,2,2,0,4880,58500,4,4,3,Yes,2.0,Single,Engineering,No
+1619,45,Female,Finance,Financial Analyst,0,0,0,5540,66500,2,1,2,No,1.0,Single,Marketing,No
+1620,37,Female,Sales,Account Manager,3,0,0,5460,65500,3,1,4,No,14.4,Single,Other,No
+1621,36,Female,Sales,Sales Executive,5,2,2,5980,71700,3,4,4,No,1.8,Single,Business,No
+1622,38,Male,Finance,Financial Analyst,7,5,1,6100,73200,4,4,3,No,5.6,Married,Business,No
+1623,36,Female,Engineering,QA Engineer,7,7,0,7190,86300,3,3,3,No,1.0,Single,HR,No
+1624,35,Female,Finance,Financial Analyst,9,0,0,6860,82300,2,3,2,No,12.1,Single,Marketing,No
+1625,35,Male,Customer Support,Support Manager,2,1,1,3530,42400,2,3,3,No,14.6,Single,Business,Yes
+1626,45,Male,Customer Support,Support Manager,4,0,0,4680,56100,2,2,4,No,4.6,Divorced,Marketing,Yes
+1627,44,Male,Customer Support,Support Associate,13,0,0,5110,61300,3,3,3,No,1.0,Married,Engineering,Yes
+1628,41,Male,Finance,Financial Analyst,10,3,1,6220,74600,4,3,3,Yes,9.9,Single,Business,No
+1629,56,Female,Marketing,Content Specialist,4,4,0,4800,57600,4,3,2,Yes,12.7,Single,Business,No
+1630,30,Male,Finance,Accountant,8,4,0,6520,78300,2,3,4,Yes,29.9,Married,Other,No
+1631,25,Male,Sales,Account Manager,18,0,0,6910,82900,4,4,3,No,3.9,Married,Engineering,No
+1632,29,Female,Sales,Sales Manager,13,12,0,6100,73200,2,3,1,Yes,29.3,Married,Engineering,Yes
+1633,45,Male,Sales,Account Manager,9,5,3,5770,69200,3,3,4,No,7.1,Married,Engineering,No
+1634,35,Male,Engineering,Engineering Manager,12,1,1,8080,97000,1,1,2,No,19.2,Single,Marketing,Yes
+1635,41,Male,Engineering,Software Engineer,9,0,0,8790,105500,4,3,3,Yes,1.0,Married,Business,No
+1636,20,Male,Customer Support,Support Associate,8,0,0,4340,52100,3,2,4,Yes,1.0,Single,Business,Yes
+1637,20,Male,Engineering,Engineering Manager,12,1,1,8720,104700,4,2,3,No,12.9,Married,Engineering,No
+1638,31,Female,Finance,Finance Manager,17,3,3,9520,114200,4,4,3,No,6.6,Divorced,Engineering,No
+1639,44,Female,Sales,Sales Executive,3,2,2,5400,64800,2,4,3,No,14.1,Divorced,Business,No
+1640,45,Female,Marketing,Marketing Manager,0,0,0,3950,47400,4,4,3,No,18.5,Married,Marketing,No
+1641,37,Female,Customer Support,Support Manager,13,12,5,5020,60200,4,3,2,No,6.8,Single,Business,No
+1642,37,Male,Sales,Sales Manager,2,2,2,5100,61200,3,4,4,No,4.7,Married,HR,No
+1643,26,Male,Engineering,Software Engineer,0,0,0,5180,62200,4,2,3,No,3.9,Married,Engineering,No
+1644,24,Male,Sales,Sales Manager,11,4,0,6470,77600,4,4,3,No,5.3,Married,Marketing,Yes
+1645,40,Female,Engineering,Software Engineer,8,0,0,8080,97000,2,3,3,Yes,2.8,Single,Business,Yes
+1646,42,Male,Customer Support,Support Lead,12,1,1,4300,51600,2,2,4,No,12.2,Single,Other,Yes
+1647,45,Female,Engineering,Engineering Manager,8,8,1,9280,111300,2,2,2,No,10.7,Single,Other,No
+1648,24,Female,Marketing,Content Specialist,13,2,0,6220,74700,4,1,2,No,1.0,Married,Business,No
+1649,34,Male,Finance,Finance Manager,13,0,0,6270,75200,1,1,4,No,2.4,Married,Engineering,Yes
+1650,43,Male,Sales,Sales Manager,7,7,4,5300,63600,2,2,1,No,9.3,Married,Marketing,No
+1651,30,Female,Sales,Sales Executive,0,0,0,4640,55700,1,3,2,No,16.2,Married,Other,Yes
+1652,53,Female,Engineering,Software Engineer,6,1,0,7180,86200,2,2,4,No,1.0,Married,Engineering,Yes
+1653,29,Male,Marketing,Marketing Manager,11,0,0,4530,54400,1,2,3,No,10.8,Married,Other,Yes
+1654,35,Female,Engineering,Senior Engineer,13,4,0,10930,131200,4,3,3,No,1.6,Single,Business,No
+1655,43,Female,Engineering,Software Engineer,8,7,1,8480,101700,2,4,3,No,10.3,Single,Engineering,No
+1656,23,Male,Finance,Finance Manager,12,4,1,8890,106700,1,3,2,No,6.9,Single,Marketing,No
+1657,40,Female,Engineering,QA Engineer,2,0,0,5610,67300,3,1,1,Yes,14.2,Single,Other,No
+1658,29,Male,Customer Support,Support Manager,12,0,0,4320,51900,3,2,3,Yes,8.1,Single,Engineering,Yes
+1659,20,Female,Customer Support,Support Associate,16,9,2,5020,60200,3,2,3,Yes,1.6,Divorced,Other,No
+1660,37,Male,Customer Support,Support Lead,4,1,0,3790,45500,3,2,3,No,19.2,Single,Marketing,No
+1661,42,Male,Sales,Sales Executive,3,2,2,4680,56100,4,3,3,No,10.5,Single,HR,Yes
+1662,38,Female,Engineering,Software Engineer,6,0,0,7760,93100,3,4,3,No,6.9,Single,HR,No
+1663,24,Male,Finance,Accountant,15,13,5,7060,84700,4,3,2,Yes,9.8,Single,Business,No
+1664,41,Female,Engineering,Engineering Manager,0,0,0,6400,76800,3,3,3,Yes,4.6,Married,Marketing,Yes
+1665,35,Female,Sales,Sales Manager,13,1,1,6510,78100,2,4,1,No,3.5,Married,Other,Yes
+1666,25,Male,Sales,Account Manager,7,4,3,4780,57400,2,4,4,Yes,1.3,Single,Engineering,No
+1667,38,Male,Sales,Sales Manager,3,2,1,5620,67400,3,4,2,No,8.4,Married,Engineering,No
+1668,33,Female,Engineering,Software Engineer,0,0,0,6100,73200,1,3,2,No,4.3,Married,Other,Yes
+1669,32,Female,Finance,Finance Manager,0,0,0,5640,67700,4,2,3,No,7.7,Divorced,HR,No
+1670,30,Female,Marketing,Marketing Associate,8,2,0,5110,61300,4,3,3,No,39.5,Divorced,Marketing,No
+1671,30,Female,Engineering,Engineering Manager,5,1,1,6280,75400,3,4,2,Yes,2.1,Married,Marketing,No
+1672,32,Female,Finance,Financial Analyst,6,0,0,6650,79800,3,2,3,Yes,7.2,Divorced,Engineering,No
+1673,60,Male,Customer Support,Support Lead,7,0,0,4100,49200,1,3,3,No,7.3,Divorced,HR,Yes
+1674,24,Male,Engineering,QA Engineer,4,0,0,7760,93100,4,3,3,Yes,21.2,Married,Engineering,No
+1675,26,Male,Customer Support,Support Lead,13,13,2,5580,67000,2,4,3,No,14.6,Married,Other,No
+1676,33,Male,Sales,Sales Manager,6,4,2,4360,52300,4,3,3,Yes,1.9,Married,Engineering,No
+1677,47,Female,Marketing,Marketing Associate,5,4,3,5170,62000,3,3,3,No,2.0,Single,Marketing,Yes
+1678,52,Female,Customer Support,Support Lead,5,0,0,2780,33400,3,3,3,Yes,19.4,Married,Marketing,Yes
+1679,38,Female,Finance,Accountant,3,3,0,4640,55700,3,3,3,Yes,15.5,Married,Business,No
+1680,28,Female,HR,Recruiter,11,4,0,6570,78800,4,3,2,No,6.3,Married,Other,No
+1681,38,Male,Sales,Account Manager,7,7,3,3730,44800,4,3,3,No,18.7,Single,Business,No
+1682,28,Female,Engineering,QA Engineer,5,5,2,7800,93600,2,2,2,No,3.0,Single,Other,No
+1683,30,Male,Sales,Sales Executive,13,6,0,5740,68900,3,3,3,No,10.7,Single,Engineering,No
+1684,34,Female,Customer Support,Support Lead,11,3,1,5310,63700,2,1,2,No,1.0,Single,Marketing,Yes
+1685,23,Male,Engineering,Engineering Manager,17,6,4,9980,119800,4,3,3,No,10.6,Married,Engineering,No
+1686,36,Male,Engineering,Senior Engineer,10,6,1,9280,111400,4,3,3,No,16.3,Married,Engineering,No
+1687,51,Male,Marketing,Content Specialist,12,0,0,7690,92300,4,1,4,Yes,20.0,Married,Engineering,Yes
+1688,28,Male,Sales,Sales Executive,6,6,0,6480,77700,4,2,3,Yes,5.9,Divorced,Marketing,No
+1689,38,Female,Engineering,QA Engineer,10,1,0,8890,106700,3,1,3,No,7.1,Married,Business,No
+1690,26,Male,Customer Support,Support Lead,7,1,1,4610,55300,1,2,3,No,1.0,Single,Other,Yes
+1691,37,Female,Engineering,Senior Engineer,4,2,2,6640,79700,4,3,4,Yes,22.9,Single,HR,No
+1692,50,Male,Sales,Sales Manager,6,2,2,4750,57000,4,1,3,No,8.9,Married,Engineering,No
+1693,51,Male,Finance,Accountant,12,4,2,6530,78400,3,2,2,No,6.8,Married,HR,No
+1694,44,Female,Sales,Sales Executive,10,0,0,5670,68000,1,3,3,Yes,6.2,Married,Other,Yes
+1695,26,Female,Customer Support,Support Lead,0,0,0,3690,44300,3,4,3,No,15.0,Single,Marketing,No
+1696,31,Male,Finance,Financial Analyst,3,3,3,5260,63100,4,3,2,No,9.1,Married,Business,No
+1697,31,Male,Sales,Sales Manager,6,5,5,4780,57400,3,4,3,Yes,1.0,Married,Business,Yes
+1698,27,Male,Customer Support,Support Manager,8,8,0,5480,65700,3,2,4,No,2.7,Married,Marketing,No
+1699,55,Female,Customer Support,Support Lead,9,3,0,3880,46600,2,3,3,Yes,1.2,Married,Engineering,Yes
+1700,20,Male,HR,Recruiter,6,6,3,5190,62300,4,3,3,No,14.5,Married,Business,No
+1701,25,Male,Customer Support,Support Associate,4,0,0,3380,40500,4,4,3,No,2.5,Married,Business,No
+1702,42,Male,HR,HR Manager,7,1,0,5370,64400,2,4,4,No,5.0,Married,Engineering,No
+1703,30,Female,Customer Support,Support Lead,5,5,1,3690,44300,4,1,4,No,7.1,Single,Business,Yes
+1704,43,Male,Marketing,Content Specialist,0,0,0,3820,45800,3,3,1,No,5.5,Single,Engineering,No
+1705,39,Male,Sales,Account Manager,12,7,1,6960,83500,3,3,1,No,4.5,Single,Business,No
+1706,42,Female,Engineering,Senior Engineer,6,0,0,7770,93200,2,3,3,No,1.0,Divorced,Other,Yes
+1707,36,Female,Marketing,Marketing Associate,2,0,0,5020,60200,2,3,4,No,12.2,Single,Engineering,No
+1708,60,Female,Finance,Finance Manager,5,1,1,4600,55200,4,3,4,No,8.8,Married,Other,No
+1709,44,Female,Marketing,Marketing Manager,4,2,2,4590,55100,4,3,1,Yes,1.2,Married,HR,No
+1710,33,Male,Marketing,Marketing Manager,0,0,0,4550,54600,2,3,3,No,16.6,Married,Marketing,Yes
+1711,32,Male,Finance,Finance Manager,5,2,2,6420,77100,3,4,4,No,22.3,Married,Other,No
+1712,39,Female,Marketing,Marketing Associate,5,0,0,4940,59300,3,4,2,No,35.4,Single,Other,No
+1713,20,Male,Engineering,QA Engineer,12,3,0,9900,118800,4,3,2,No,2.8,Single,Engineering,No
+1714,29,Male,Sales,Sales Manager,16,8,1,6030,72400,4,4,3,No,14.2,Divorced,HR,No
+1715,38,Male,Engineering,Senior Engineer,9,0,0,9430,113200,4,4,3,No,9.2,Single,Business,No
+1716,20,Female,Engineering,Senior Engineer,13,3,1,7080,84900,3,1,4,No,9.5,Single,Marketing,No
+1717,23,Male,Sales,Sales Executive,5,0,0,5080,60900,4,3,3,Yes,3.6,Married,Business,Yes
+1718,26,Female,Marketing,Marketing Manager,7,2,0,5130,61600,3,4,2,No,1.0,Single,Business,No
+1719,37,Male,Engineering,QA Engineer,12,2,2,9250,111000,4,3,4,No,2.4,Married,Business,No
+1720,25,Female,Customer Support,Support Manager,11,0,0,4610,55300,1,3,3,Yes,6.7,Single,Business,Yes
+1721,30,Male,Engineering,Software Engineer,5,4,2,8230,98800,3,4,4,Yes,3.4,Single,HR,No
+1722,35,Male,Engineering,Software Engineer,1,0,0,8050,96600,3,4,3,No,1.0,Married,Business,No
+1723,39,Male,Engineering,Software Engineer,9,2,1,8640,103700,2,3,1,Yes,22.0,Married,Engineering,No
+1724,32,Male,Sales,Account Manager,1,1,0,4220,50600,4,3,3,No,9.9,Married,Business,No
+1725,39,Female,Customer Support,Support Associate,13,6,2,4890,58700,3,2,3,No,6.9,Married,Other,No
+1726,37,Male,Engineering,QA Engineer,19,2,0,10150,121800,4,3,4,No,29.8,Divorced,Business,No
+1727,25,Female,Engineering,Senior Engineer,4,4,4,7520,90300,3,4,3,No,1.7,Single,Engineering,No
+1728,35,Female,Engineering,Software Engineer,4,4,0,4970,59600,3,4,2,No,23.9,Married,Other,No
+1729,39,Male,Sales,Account Manager,4,0,0,5220,62700,2,3,3,No,1.0,Single,Marketing,No
+1730,38,Male,Finance,Financial Analyst,17,5,5,8010,96100,4,3,3,No,25.7,Single,HR,Yes
+1731,40,Female,Finance,Accountant,8,6,1,7260,87100,4,3,2,Yes,1.1,Married,Engineering,No
+1732,20,Male,Sales,Account Manager,8,5,0,5640,67700,1,1,2,No,9.9,Married,Business,Yes
+1733,32,Female,Sales,Account Manager,0,0,0,4920,59100,4,2,3,No,2.2,Married,Engineering,No
+1734,39,Female,Engineering,Engineering Manager,0,0,0,6560,78700,2,3,2,No,2.7,Divorced,Other,No
+1735,20,Female,Customer Support,Support Manager,11,11,3,6230,74800,2,3,3,No,27.2,Married,Marketing,No
+1736,36,Male,Finance,Accountant,8,2,1,6720,80600,2,2,2,No,15.3,Divorced,Other,No
+1737,22,Female,HR,HR Manager,12,6,2,5680,68200,4,3,3,No,17.6,Married,Business,Yes
+1738,32,Female,Engineering,Senior Engineer,6,2,2,7870,94400,4,3,3,No,15.5,Married,Marketing,No
+1739,40,Female,Engineering,Engineering Manager,3,0,0,7790,93500,4,1,3,Yes,1.0,Married,Marketing,Yes
+1740,22,Male,Marketing,Content Specialist,13,2,0,6150,73800,2,1,3,No,1.1,Married,Business,Yes
+1741,25,Female,Customer Support,Support Associate,0,0,0,2800,33600,3,4,2,No,7.3,Married,Engineering,Yes
+1742,34,Female,Sales,Account Manager,11,9,0,6230,74800,4,3,3,Yes,6.3,Married,Engineering,No
+1743,54,Female,HR,HR Manager,8,8,3,6030,72400,3,2,2,No,5.6,Single,Engineering,No
+1744,31,Female,Engineering,Engineering Manager,5,5,1,7280,87400,2,1,2,No,12.8,Married,Engineering,No
+1745,31,Male,Finance,Financial Analyst,5,5,0,5870,70400,4,4,3,No,1.2,Married,Business,No
+1746,42,Female,Engineering,QA Engineer,5,2,0,6720,80700,3,2,3,Yes,1.3,Divorced,Other,No
+1747,32,Female,Sales,Sales Executive,15,9,2,6500,78000,2,4,4,No,4.5,Married,Business,Yes
+1748,37,Male,Finance,Financial Analyst,13,0,0,6410,76900,3,3,3,Yes,5.4,Divorced,HR,No
+1749,26,Female,Engineering,Engineering Manager,5,0,0,8820,105800,4,2,4,Yes,15.5,Married,Engineering,No
+1750,29,Female,Engineering,Engineering Manager,10,7,1,8050,96600,4,2,3,No,12.8,Divorced,Engineering,No
+1751,20,Male,Marketing,Content Specialist,5,2,2,4150,49800,1,2,2,No,7.2,Married,HR,Yes
+1752,40,Male,Engineering,Senior Engineer,13,0,0,11320,135800,4,4,2,No,52.9,Divorced,Marketing,No
+1753,48,Female,Sales,Sales Manager,11,2,0,7720,92600,3,1,2,Yes,6.6,Single,Engineering,No
+1754,21,Female,HR,Recruiter,2,2,0,4660,55900,2,2,3,No,11.4,Single,Engineering,No
+1755,35,Male,Marketing,Marketing Associate,8,0,0,5880,70600,4,3,3,No,12.4,Married,Business,No
+1756,45,Female,HR,HR Manager,8,1,0,5160,61900,4,2,4,Yes,1.0,Single,Engineering,No
+1757,34,Male,Engineering,QA Engineer,13,0,0,10160,121900,3,3,2,No,4.9,Married,Engineering,Yes
+1758,27,Male,Customer Support,Support Associate,11,0,0,5060,60700,2,3,3,No,4.9,Married,Marketing,No
+1759,33,Male,Engineering,Engineering Manager,11,1,0,7650,91800,3,2,4,No,27.2,Married,Business,No
+1760,60,Male,Engineering,Engineering Manager,3,0,0,7220,86700,2,3,4,No,2.9,Single,Business,Yes
+1761,24,Male,Engineering,Engineering Manager,15,0,0,6280,75300,4,3,3,No,5.8,Single,Engineering,No
+1762,53,Male,Sales,Sales Manager,2,2,0,3490,41900,3,4,4,No,45.1,Married,Marketing,Yes
+1763,49,Female,Engineering,Senior Engineer,5,0,0,7160,85900,3,2,4,Yes,4.9,Single,Business,No
+1764,27,Male,HR,Recruiter,12,10,0,5390,64700,1,3,4,No,6.7,Married,Business,No
+1765,26,Female,HR,HR Executive,9,2,0,6020,72200,4,3,3,No,3.5,Single,Business,No
+1766,52,Male,Sales,Sales Manager,5,2,1,4170,50000,4,2,2,Yes,10.2,Married,Other,No
+1767,28,Male,Marketing,Marketing Associate,0,0,0,4540,54500,4,2,3,No,2.8,Married,HR,No
+1768,25,Female,Engineering,Senior Engineer,13,0,0,8810,105700,4,3,4,No,5.3,Married,HR,No
+1769,33,Female,Marketing,Marketing Manager,7,2,1,6540,78500,2,2,3,No,21.1,Single,Engineering,Yes
+1770,42,Female,HR,HR Executive,3,0,0,5080,60900,1,3,4,Yes,6.1,Married,Engineering,Yes
+1771,37,Male,Engineering,Software Engineer,4,4,0,7860,94300,1,1,3,No,2.7,Divorced,Marketing,No
+1772,34,Male,HR,Recruiter,6,1,1,4480,53700,2,3,3,No,5.9,Divorced,Engineering,No
+1773,37,Male,Finance,Accountant,12,1,0,8200,98400,4,4,3,Yes,7.1,Single,Marketing,No
+1774,31,Female,Sales,Sales Executive,14,1,0,6500,78000,4,4,2,Yes,3.1,Married,Business,No
+1775,27,Female,Engineering,QA Engineer,2,0,0,6230,74800,1,4,3,No,6.6,Single,Business,Yes
+1776,32,Male,Finance,Finance Manager,11,1,1,7960,95500,4,2,2,No,4.7,Married,Other,No
+1777,41,Male,Sales,Account Manager,6,3,2,6270,75200,1,1,3,No,1.0,Married,Engineering,Yes
+1778,32,Female,Marketing,Marketing Associate,2,0,0,5190,62300,1,2,3,No,1.0,Married,Business,Yes
+1779,20,Female,Customer Support,Support Associate,0,0,0,3530,42400,1,2,1,Yes,21.9,Single,HR,Yes
+1780,34,Female,HR,HR Executive,2,2,2,4680,56200,4,4,3,Yes,4.1,Single,HR,No
+1781,38,Female,Engineering,Senior Engineer,4,4,1,8280,99400,4,2,3,No,6.3,Married,Engineering,No
+1782,31,Female,Sales,Account Manager,15,0,0,7720,92700,2,3,3,Yes,10.7,Married,Business,Yes
+1783,38,Female,Sales,Sales Executive,5,5,0,3780,45400,3,4,1,Yes,7.7,Married,Business,Yes
+1784,42,Male,Finance,Finance Manager,2,2,0,6380,76600,4,3,3,No,3.9,Single,Engineering,No
+1785,37,Male,Finance,Finance Manager,11,8,0,5580,66900,3,4,4,Yes,3.9,Single,Other,No
+1786,30,Female,Sales,Account Manager,13,0,0,7470,89600,2,3,3,No,1.8,Married,HR,No
+1787,37,Female,HR,HR Executive,2,2,2,4680,56200,3,1,2,No,2.8,Married,Business,No
+1788,42,Male,Customer Support,Support Lead,14,3,3,5330,64000,3,3,3,Yes,4.7,Single,Engineering,Yes
+1789,21,Female,Customer Support,Support Manager,1,1,0,3580,43000,2,2,4,No,1.2,Single,Engineering,Yes
+1790,38,Female,Engineering,Software Engineer,8,2,0,8180,98100,3,1,3,No,3.5,Married,Business,No
+1791,46,Female,Customer Support,Support Associate,10,0,0,4320,51800,3,4,4,No,12.1,Married,Business,No
+1792,44,Male,Sales,Sales Manager,9,1,0,4880,58500,3,3,3,No,4.5,Single,Engineering,Yes
+1793,23,Female,Marketing,Marketing Manager,5,0,0,5040,60500,2,1,2,No,5.0,Divorced,Other,Yes
+1794,29,Female,Finance,Financial Analyst,6,1,1,7650,91800,1,2,4,No,12.4,Divorced,Engineering,No
+1795,22,Male,Engineering,QA Engineer,12,4,1,8800,105600,3,4,3,No,1.6,Divorced,Other,No
+1796,28,Male,Engineering,Software Engineer,7,5,3,7810,93700,4,3,3,No,9.3,Single,Engineering,No
+1797,27,Male,Engineering,Software Engineer,6,0,0,6480,77800,1,2,2,No,5.8,Divorced,Engineering,No
+1798,36,Female,Sales,Account Manager,12,1,1,6350,76200,3,3,3,No,9.1,Married,Business,Yes
+1799,41,Female,Engineering,Engineering Manager,11,7,2,9450,113400,4,3,4,No,9.8,Married,Business,No
+1800,41,Male,Engineering,Senior Engineer,14,0,0,8800,105600,3,2,3,No,1.7,Married,Engineering,Yes
+1801,23,Male,HR,HR Executive,5,1,0,4950,59400,3,4,3,No,13.5,Single,Marketing,No
+1802,43,Male,Engineering,Senior Engineer,6,4,1,8750,105000,4,3,2,Yes,9.2,Married,Engineering,No
+1803,38,Female,Engineering,Engineering Manager,6,4,0,7980,95700,4,3,2,No,4.6,Single,HR,No
+1804,37,Female,Engineering,Software Engineer,7,1,0,7280,87300,4,3,4,No,31.6,Married,Engineering,No
+1805,20,Male,HR,HR Manager,12,0,0,5250,63000,1,3,3,No,1.5,Married,Business,Yes
+1806,34,Male,Sales,Sales Manager,14,0,0,7250,87000,1,3,4,No,1.0,Single,Business,Yes
+1807,35,Female,Customer Support,Support Lead,10,0,0,3250,39000,3,3,3,Yes,2.5,Married,Engineering,Yes
+1808,29,Male,Customer Support,Support Manager,14,11,2,5230,62800,2,3,3,Yes,1.0,Married,Business,No
+1809,41,Male,Customer Support,Support Manager,16,4,2,5620,67500,1,2,2,No,9.3,Married,Marketing,Yes
+1810,33,Male,HR,Recruiter,5,5,4,4590,55100,3,3,3,Yes,9.8,Married,Business,No
+1811,51,Male,Marketing,Marketing Associate,8,0,0,5490,65900,4,3,4,No,4.0,Single,HR,No
+1812,38,Female,HR,HR Executive,7,2,2,4580,54900,1,3,3,Yes,1.5,Married,Other,Yes
+1813,25,Male,Sales,Sales Manager,2,2,2,4580,54900,4,2,4,Yes,2.5,Single,Engineering,No
+1814,38,Male,Finance,Finance Manager,9,9,3,6920,83100,4,4,3,No,2.8,Married,Engineering,No
+1815,47,Male,Marketing,Content Specialist,7,5,0,5250,63000,3,4,3,No,2.4,Single,Business,No
+1816,45,Female,Engineering,Software Engineer,0,0,0,7190,86300,1,4,2,No,5.2,Married,Engineering,No
+1817,23,Female,Finance,Accountant,6,0,0,4870,58400,4,2,3,No,1.0,Married,Engineering,No
+1818,43,Female,Engineering,Engineering Manager,4,3,2,8020,96200,4,3,4,Yes,8.0,Married,HR,No
+1819,53,Male,Finance,Financial Analyst,5,3,0,5620,67500,1,2,2,No,8.5,Married,HR,No
+1820,37,Male,Sales,Sales Executive,5,5,0,4730,56800,1,4,3,No,20.4,Divorced,Other,No
+1821,52,Female,Customer Support,Support Associate,0,0,0,3360,40300,2,2,1,No,1.3,Single,Business,Yes
+1822,40,Female,Finance,Financial Analyst,10,6,1,7280,87400,3,3,2,Yes,7.9,Divorced,Marketing,No
+1823,29,Male,Finance,Finance Manager,2,2,0,5950,71400,2,4,2,No,2.5,Single,Engineering,No
+1824,38,Male,Finance,Accountant,11,3,0,6580,78900,3,3,4,No,10.6,Single,Business,No
+1825,42,Male,Marketing,Marketing Manager,0,0,0,4050,48600,4,4,3,No,13.1,Divorced,Engineering,Yes
+1826,20,Male,Engineering,Software Engineer,9,4,0,7330,88000,3,4,3,No,23.2,Single,HR,No
+1827,44,Male,Sales,Account Manager,7,2,0,5840,70100,3,2,4,No,24.4,Single,Business,Yes
+1828,45,Male,Engineering,Engineering Manager,2,0,0,7120,85500,4,3,2,Yes,1.0,Married,Engineering,Yes
+1829,51,Female,Engineering,Engineering Manager,5,1,1,5580,67000,2,2,3,No,1.9,Married,Marketing,No
+1830,25,Male,Finance,Financial Analyst,9,1,1,6900,82800,2,3,2,No,31.7,Divorced,Engineering,Yes
+1831,34,Male,Customer Support,Support Manager,0,0,0,3720,44700,4,2,3,No,1.1,Single,Business,Yes
+1832,20,Female,Customer Support,Support Associate,10,0,0,3830,46000,3,2,4,No,5.1,Married,Other,No
+1833,24,Female,Sales,Sales Executive,12,1,0,5950,71400,3,4,3,No,18.4,Married,Engineering,No
+1834,26,Female,Customer Support,Support Associate,2,0,0,3650,43800,1,2,4,No,6.1,Single,Other,Yes
+1835,48,Female,Engineering,QA Engineer,7,7,0,8250,99000,4,1,4,Yes,9.9,Married,Business,No
+1836,20,Male,Marketing,Content Specialist,5,2,1,5760,69100,1,2,4,No,1.0,Single,Marketing,Yes
+1837,44,Male,Engineering,Senior Engineer,3,0,0,6810,81700,4,3,3,No,8.1,Single,Other,No
+1838,20,Male,Engineering,Engineering Manager,4,4,0,7350,88200,3,1,3,No,2.5,Divorced,Business,No
+1839,44,Male,Sales,Account Manager,9,1,0,5220,62700,2,1,3,Yes,7.9,Married,HR,Yes
+1840,50,Male,Marketing,Content Specialist,6,3,0,5690,68300,3,2,3,No,2.3,Single,Marketing,No
+1841,25,Male,Customer Support,Support Manager,10,3,1,4460,53500,2,4,3,No,21.3,Single,Other,No
+1842,20,Male,Engineering,QA Engineer,10,3,2,6790,81500,4,3,4,Yes,4.4,Married,Other,No
+1843,33,Female,Sales,Sales Manager,10,1,0,6180,74100,4,1,3,Yes,1.1,Single,Business,Yes
+1844,52,Female,HR,HR Manager,7,6,0,5130,61600,1,2,4,Yes,11.0,Married,Business,No
+1845,34,Female,Marketing,Marketing Associate,1,1,1,5800,69600,4,3,4,No,1.7,Married,Business,No
+1846,28,Male,HR,Recruiter,2,2,0,4990,59900,4,3,4,No,1.3,Single,Business,No
+1847,33,Male,Finance,Financial Analyst,13,0,0,6370,76400,4,2,3,No,7.7,Married,Engineering,No
+1848,20,Male,HR,HR Executive,11,2,0,5280,63400,2,1,2,No,5.7,Single,HR,No
+1849,38,Male,HR,HR Executive,2,2,2,4490,53900,2,3,4,No,11.4,Single,Business,No
+1850,39,Female,Engineering,Engineering Manager,8,8,2,5850,70200,3,3,1,No,25.8,Married,Marketing,No
+1851,41,Female,Engineering,Engineering Manager,2,2,2,7100,85200,4,4,2,No,20.3,Single,Business,No
+1852,25,Male,Engineering,Software Engineer,2,1,1,7110,85300,2,2,4,No,9.8,Single,Other,Yes
+1853,34,Male,Engineering,Engineering Manager,1,1,1,7910,94900,3,4,4,Yes,27.7,Married,Engineering,Yes
+1854,52,Female,Sales,Sales Manager,7,7,1,5810,69700,3,2,4,No,4.3,Single,Engineering,No
+1855,26,Male,Customer Support,Support Lead,13,4,1,5020,60200,4,3,2,No,1.5,Married,Engineering,No
+1856,39,Female,Engineering,QA Engineer,15,1,1,11600,139200,3,4,4,No,4.1,Married,HR,No
+1857,41,Male,Customer Support,Support Lead,12,0,0,4220,50600,3,4,3,No,19.2,Single,Engineering,Yes
+1858,21,Female,Finance,Accountant,9,1,0,7290,87500,4,2,3,Yes,11.1,Single,Marketing,Yes
+1859,29,Female,Finance,Financial Analyst,13,1,1,7320,87900,1,3,4,No,21.7,Married,HR,Yes
+1860,38,Female,Engineering,QA Engineer,10,2,0,7330,88000,1,3,1,No,2.0,Single,Engineering,Yes
+1861,37,Male,Customer Support,Support Lead,6,1,1,4230,50800,4,3,3,No,1.8,Single,Engineering,No
+1862,23,Female,Customer Support,Support Lead,15,2,0,5980,71800,3,3,4,No,7.1,Married,Business,No
+1863,33,Female,Customer Support,Support Manager,4,4,3,3250,39000,4,2,2,No,2.7,Married,Other,No
+1864,20,Female,Sales,Account Manager,0,0,0,4560,54700,4,2,3,No,1.9,Married,Engineering,No
+1865,43,Male,Marketing,Marketing Associate,15,3,2,7320,87800,4,1,4,No,10.3,Single,Other,No
+1866,40,Male,Engineering,Senior Engineer,6,4,1,9520,114200,3,4,2,No,2.9,Single,Marketing,No
+1867,27,Male,HR,Recruiter,12,12,0,6590,79100,3,4,3,Yes,6.4,Married,Marketing,No
+1868,32,Male,Sales,Sales Manager,3,3,0,4320,51900,2,4,2,Yes,2.4,Divorced,Other,No
+1869,42,Male,Finance,Accountant,0,0,0,4910,58900,2,3,3,No,4.5,Married,Other,No
+1870,39,Female,Marketing,Content Specialist,6,1,1,5180,62200,3,2,3,Yes,2.2,Married,HR,Yes
+1871,20,Female,Engineering,QA Engineer,7,0,0,8500,102000,3,4,4,No,5.8,Married,Other,No
+1872,39,Male,Engineering,Engineering Manager,2,1,1,5420,65000,1,3,2,Yes,18.4,Divorced,HR,Yes
+1873,25,Female,Sales,Sales Manager,10,0,0,5350,64200,3,3,3,No,1.0,Married,Other,Yes
+1874,20,Male,Finance,Accountant,15,4,0,7250,87000,3,3,3,No,1.9,Married,HR,No
+1875,22,Female,Engineering,Senior Engineer,3,3,2,8410,100900,4,1,3,No,21.6,Single,Other,No
+1876,32,Female,Marketing,Marketing Associate,3,3,3,5560,66700,2,1,4,No,4.4,Single,Business,No
+1877,47,Male,Sales,Sales Manager,2,2,0,3810,45700,3,4,3,No,15.0,Married,Business,No
+1878,40,Male,Marketing,Content Specialist,6,6,3,5420,65000,3,3,3,No,2.3,Single,Marketing,No
+1879,28,Male,Engineering,Engineering Manager,11,1,1,7420,89000,3,3,4,No,7.8,Married,HR,No
+1880,29,Female,Sales,Sales Executive,5,0,0,5160,61900,4,3,2,No,8.8,Married,Marketing,No
+1881,24,Male,Finance,Accountant,0,0,0,5030,60400,4,4,3,No,1.6,Single,Engineering,No
+1882,32,Male,Engineering,Software Engineer,16,5,2,9590,115100,4,3,3,No,1.0,Married,Business,No
+1883,39,Female,Sales,Account Manager,7,6,0,5500,66000,3,2,2,No,6.0,Single,Business,No
+1884,41,Male,HR,HR Manager,13,1,1,5880,70600,4,3,2,No,11.4,Divorced,HR,No
+1885,40,Male,HR,HR Executive,3,2,2,4740,56900,3,3,3,No,5.3,Married,Engineering,No
+1886,38,Female,HR,Recruiter,5,0,0,4010,48100,3,4,2,Yes,7.7,Married,HR,No
+1887,40,Female,Finance,Financial Analyst,12,0,0,6230,74800,1,4,4,Yes,2.1,Divorced,Marketing,Yes
+1888,42,Male,Sales,Account Manager,4,4,0,5490,65900,3,4,2,No,5.6,Married,Other,Yes
+1889,28,Female,Sales,Account Manager,9,0,0,5500,66000,3,3,3,No,1.1,Married,Business,Yes
+1890,32,Female,Engineering,Engineering Manager,1,1,0,7660,91900,3,2,3,Yes,9.7,Single,Business,No
+1891,44,Female,Marketing,Content Specialist,14,12,1,8020,96200,3,4,3,No,2.5,Single,Business,No
+1892,54,Male,Engineering,QA Engineer,0,0,0,6780,81300,2,3,4,No,2.4,Single,Business,No
+1893,38,Male,Customer Support,Support Associate,8,2,0,3910,46900,3,3,3,No,3.4,Married,Business,No
+1894,32,Male,Finance,Financial Analyst,9,0,0,6730,80800,4,3,3,No,4.4,Married,Other,No
+1895,29,Male,Marketing,Marketing Manager,15,15,3,7570,90800,3,2,3,Yes,10.2,Married,Marketing,Yes
+1896,32,Female,Engineering,QA Engineer,1,1,1,7230,86800,4,3,3,No,8.6,Married,Business,No
+1897,34,Female,Marketing,Marketing Associate,2,2,2,3780,45300,4,4,3,Yes,35.2,Married,Marketing,No
+1898,41,Male,Marketing,Content Specialist,11,6,1,6350,76200,3,3,3,No,18.4,Married,Other,No
+1899,20,Male,Finance,Financial Analyst,14,5,4,8030,96400,2,2,3,Yes,1.9,Married,Engineering,Yes
+1900,29,Female,Sales,Sales Executive,2,1,1,5070,60800,4,3,4,Yes,4.3,Married,Other,No
+1901,29,Female,Customer Support,Support Associate,8,0,0,4620,55500,3,4,2,No,8.6,Married,Marketing,No
+1902,40,Male,Customer Support,Support Manager,0,0,0,2790,33500,3,3,3,No,16.9,Divorced,Engineering,Yes
+1903,40,Female,Marketing,Marketing Manager,13,0,0,5660,67900,2,4,3,No,4.6,Married,Business,Yes
+1904,51,Female,Marketing,Marketing Manager,6,6,6,5030,60400,4,3,2,No,22.9,Married,Business,No
+1905,42,Male,Sales,Sales Executive,0,0,0,3370,40400,3,3,3,No,11.3,Single,Other,No
+1906,20,Female,Marketing,Marketing Manager,8,7,2,5180,62200,2,3,3,No,11.1,Divorced,HR,No
+1907,38,Male,Sales,Sales Manager,1,0,0,4020,48200,3,3,4,No,15.8,Married,Engineering,No
+1908,33,Female,Sales,Sales Manager,7,2,0,4950,59400,4,3,3,Yes,1.0,Married,Marketing,No
+1909,29,Male,Customer Support,Support Associate,9,1,1,5180,62100,4,2,2,Yes,6.4,Married,Engineering,No
+1910,20,Female,Finance,Accountant,6,2,1,6410,76900,2,3,3,No,16.4,Married,Engineering,No
+1911,37,Male,Engineering,QA Engineer,4,4,0,7190,86300,2,2,2,No,14.2,Married,Business,Yes
+1912,34,Female,Finance,Accountant,7,0,0,7040,84500,2,3,2,No,18.8,Divorced,Business,No
+1913,41,Male,Finance,Financial Analyst,12,1,1,7900,94800,4,2,3,Yes,3.2,Married,Other,No
+1914,41,Male,Engineering,Engineering Manager,10,1,1,8790,105500,2,1,3,Yes,22.9,Single,Engineering,Yes
+1915,37,Male,Sales,Sales Executive,10,10,7,4320,51900,3,3,3,No,3.2,Married,Engineering,No
+1916,50,Female,Engineering,Software Engineer,4,4,3,7370,88400,2,3,3,No,22.0,Married,Engineering,No
+1917,33,Male,HR,Recruiter,5,0,0,5660,67900,4,4,4,Yes,7.0,Single,Marketing,No
+1918,48,Male,Customer Support,Support Lead,6,5,2,5550,66600,4,3,2,No,15.2,Married,Other,No
+1919,39,Male,Engineering,Engineering Manager,5,5,0,7940,95300,4,2,4,No,6.1,Married,HR,No
+1920,41,Male,Customer Support,Support Associate,18,3,3,6480,77800,3,1,3,No,4.0,Divorced,Engineering,Yes
+1921,40,Male,Finance,Accountant,8,1,0,6640,79700,2,3,2,No,1.0,Married,Business,Yes
+1922,32,Male,Engineering,Senior Engineer,1,1,1,8010,96100,2,4,2,Yes,2.9,Single,Other,No
+1923,28,Male,Customer Support,Support Manager,0,0,0,3930,47200,4,2,3,Yes,15.1,Single,Business,No
+1924,44,Male,Sales,Account Manager,7,3,2,4620,55500,4,3,4,Yes,3.5,Single,Engineering,No
+1925,41,Male,HR,Recruiter,17,3,0,5620,67400,3,4,2,No,1.3,Married,Other,No
+1926,43,Female,Finance,Accountant,8,1,1,6960,83500,3,2,3,No,1.0,Married,Other,No
+1927,51,Female,Engineering,Senior Engineer,9,1,1,10180,122100,3,3,2,No,1.0,Single,Engineering,No
+1928,44,Male,Marketing,Marketing Associate,9,1,0,6250,75000,4,1,3,No,13.4,Divorced,Engineering,No
+1929,37,Male,Sales,Sales Manager,2,0,0,4940,59300,3,3,2,No,4.0,Single,Marketing,No
+1930,47,Female,Sales,Account Manager,15,6,3,6480,77800,4,2,3,No,6.0,Single,Engineering,Yes
+1931,44,Female,HR,Recruiter,0,0,0,3710,44500,4,1,3,No,34.5,Single,HR,Yes
+1932,36,Male,Finance,Finance Manager,17,5,3,7530,90400,3,2,3,No,2.6,Married,Engineering,No
+1933,49,Male,Sales,Sales Executive,13,4,4,6460,77500,1,4,3,No,1.0,Single,Marketing,No
+1934,34,Female,Sales,Sales Manager,4,0,0,5220,62600,3,2,3,No,11.1,Single,Business,No
+1935,31,Male,Customer Support,Support Lead,0,0,0,4380,52600,3,3,3,Yes,7.2,Married,Business,Yes
+1936,31,Male,Engineering,Engineering Manager,5,5,0,6570,78800,3,3,2,No,19.7,Single,Engineering,No
+1937,47,Male,Engineering,Senior Engineer,7,1,1,9800,117600,2,2,4,No,9.2,Single,Business,No
+1938,29,Female,Marketing,Marketing Associate,7,2,2,5200,62400,3,4,2,No,7.1,Married,Engineering,No
+1939,23,Male,Marketing,Content Specialist,5,2,0,6220,74700,2,4,3,No,4.4,Married,Engineering,No
+1940,47,Male,Finance,Finance Manager,12,1,0,5420,65000,3,1,2,No,5.5,Married,Business,No
+1941,25,Male,Engineering,QA Engineer,3,0,0,7700,92400,1,3,3,Yes,17.0,Married,Engineering,Yes
+1942,26,Female,Marketing,Marketing Associate,5,2,0,5650,67800,3,2,1,No,1.0,Married,Business,Yes
+1943,20,Male,Sales,Account Manager,3,3,0,4380,52500,4,3,4,Yes,8.2,Married,HR,No
+1944,36,Male,Customer Support,Support Lead,9,5,1,4960,59500,3,3,2,No,1.0,Single,HR,No
+1945,34,Male,Engineering,Engineering Manager,10,2,1,7620,91400,4,4,4,No,19.2,Married,HR,No
+1946,34,Male,Engineering,Engineering Manager,6,3,3,8670,104000,3,1,3,Yes,4.2,Divorced,Business,No
+1947,37,Female,Engineering,Senior Engineer,6,2,2,7490,89900,4,4,4,No,9.7,Single,HR,No
+1948,30,Male,Marketing,Marketing Manager,3,2,1,4040,48500,3,3,3,Yes,1.5,Married,Other,Yes
+1949,35,Female,Engineering,QA Engineer,5,5,5,7470,89600,2,2,2,No,4.6,Divorced,HR,Yes
+1950,25,Male,Finance,Finance Manager,4,0,0,6130,73600,1,3,3,No,4.3,Married,Business,No
+1951,44,Male,Sales,Sales Manager,15,0,0,7370,88400,3,4,3,Yes,6.0,Divorced,HR,Yes
+1952,47,Female,Sales,Sales Executive,6,0,0,4380,52500,2,3,2,Yes,2.0,Married,Other,Yes
+1953,38,Male,Marketing,Content Specialist,10,0,0,6300,75600,2,3,3,No,3.4,Divorced,Other,No
+1954,35,Male,Marketing,Content Specialist,6,1,0,5360,64300,4,3,4,Yes,1.0,Married,Engineering,No
+1955,36,Male,Marketing,Marketing Manager,7,3,2,6080,72900,3,4,1,Yes,4.6,Married,Engineering,No
+1956,28,Male,Sales,Sales Manager,0,0,0,4230,50800,4,2,3,No,8.1,Single,Engineering,No
+1957,31,Male,Sales,Account Manager,4,3,3,3900,46800,3,2,3,Yes,12.3,Married,Engineering,Yes
+1958,37,Male,Finance,Accountant,5,2,1,5680,68100,1,2,3,No,6.6,Married,Marketing,No
+1959,39,Female,Marketing,Content Specialist,11,4,1,6640,79700,3,1,3,Yes,1.6,Single,Engineering,No
+1960,41,Female,HR,HR Executive,3,0,0,4320,51900,3,2,4,No,4.1,Married,Business,Yes
+1961,40,Female,Engineering,QA Engineer,0,0,0,7450,89400,1,2,3,No,5.5,Married,HR,Yes
+1962,31,Female,Finance,Accountant,20,19,0,9820,117900,2,3,3,Yes,10.1,Married,Other,No
+1963,41,Male,Finance,Accountant,13,2,0,7250,87000,1,4,2,No,7.4,Married,Engineering,No
+1964,27,Male,Finance,Finance Manager,10,0,0,6450,77400,3,3,2,Yes,8.9,Single,Engineering,No
+1965,27,Male,Engineering,Software Engineer,13,6,1,8780,105400,1,3,3,No,2.5,Married,HR,Yes
+1966,32,Male,Sales,Sales Executive,1,1,0,5370,64400,3,1,3,Yes,2.4,Married,Engineering,Yes
+1967,23,Male,Engineering,Software Engineer,10,10,2,8350,100200,3,4,3,No,3.2,Single,Engineering,No
+1968,56,Male,Finance,Finance Manager,7,0,0,6180,74100,3,3,1,No,2.3,Married,Engineering,No
+1969,32,Female,Engineering,QA Engineer,12,0,0,8740,104900,4,3,2,No,28.9,Single,Other,Yes
+1970,39,Male,Finance,Finance Manager,10,0,0,6800,81600,4,3,3,No,1.7,Divorced,Business,No
+1971,44,Female,Engineering,Senior Engineer,6,6,6,9540,114500,4,2,3,No,1.5,Single,Marketing,No
+1972,26,Male,Finance,Finance Manager,14,0,0,6860,82300,1,4,3,No,19.4,Married,Marketing,Yes
+1973,34,Male,Marketing,Marketing Associate,3,3,3,5400,64800,3,2,3,Yes,13.6,Single,Engineering,No
+1974,28,Male,HR,HR Manager,3,0,0,4210,50500,3,3,3,No,4.0,Married,Business,No
+1975,42,Female,Sales,Sales Manager,4,4,0,5820,69900,3,2,1,No,6.6,Single,Business,No
+1976,20,Male,Marketing,Content Specialist,5,5,0,5380,64600,2,2,3,No,21.2,Married,Engineering,Yes
+1977,34,Male,Marketing,Marketing Associate,3,3,0,5290,63500,2,4,3,No,3.4,Married,Business,No
+1978,44,Male,Customer Support,Support Lead,10,0,0,4420,53100,3,2,1,Yes,3.6,Divorced,HR,No
+1979,39,Male,Marketing,Content Specialist,4,4,3,5040,60500,3,4,1,No,13.3,Married,Engineering,No
+1980,49,Female,Customer Support,Support Lead,8,6,2,3330,40000,1,1,4,No,8.7,Married,Business,Yes
+1981,22,Male,Customer Support,Support Manager,4,4,2,3850,46200,4,3,3,No,10.1,Married,Business,No
+1982,21,Male,Finance,Financial Analyst,4,0,0,5660,67900,3,4,3,No,1.9,Married,Marketing,No
+1983,40,Female,Marketing,Marketing Manager,6,2,1,4390,52700,3,3,2,No,7.0,Divorced,Marketing,Yes
+1984,41,Male,Engineering,QA Engineer,5,3,3,7390,88700,4,3,2,No,1.6,Married,Marketing,No
+1985,35,Female,HR,Recruiter,4,3,3,5290,63500,3,3,3,No,1.0,Married,Other,No
+1986,33,Male,Engineering,Senior Engineer,11,9,3,8070,96800,4,3,4,Yes,2.5,Single,Engineering,No
+1987,49,Female,Sales,Sales Manager,8,0,0,5130,61600,3,1,3,No,4.4,Single,Business,No
+1988,42,Male,Engineering,Software Engineer,0,0,0,6620,79500,3,4,2,No,1.4,Married,Engineering,No
+1989,58,Male,Engineering,QA Engineer,4,0,0,8370,100400,4,2,4,No,21.1,Single,Marketing,No
+1990,35,Female,Finance,Finance Manager,8,3,3,5740,68900,3,3,3,No,5.3,Married,Business,No
+1991,39,Male,Engineering,Senior Engineer,8,2,0,8120,97400,2,3,4,No,11.8,Married,Business,No
+1992,34,Female,Engineering,Senior Engineer,6,3,3,6580,79000,4,1,4,No,8.3,Single,Marketing,No
+1993,22,Female,Marketing,Marketing Associate,8,8,0,5570,66800,3,1,2,Yes,22.5,Married,HR,No
+1994,30,Female,HR,Recruiter,8,6,1,6130,73600,3,4,3,No,2.6,Married,Engineering,No
+1995,47,Male,Customer Support,Support Lead,14,2,1,4420,53100,4,2,3,No,1.8,Single,Marketing,No
+1996,21,Female,Engineering,QA Engineer,13,1,1,8960,107500,4,3,3,Yes,12.1,Married,Business,No
+1997,20,Female,Finance,Financial Analyst,12,3,1,7320,87900,4,2,3,No,7.1,Married,Marketing,No
+1998,39,Female,Engineering,Engineering Manager,4,4,4,6960,83500,4,4,3,Yes,5.4,Married,Business,No
+1999,27,Female,Marketing,Marketing Manager,9,0,0,7030,84400,3,3,1,Yes,4.3,Married,Marketing,Yes
+2000,49,Female,Finance,Finance Manager,12,4,0,6190,74300,4,4,3,No,6.2,Single,Engineering,No
+2001,47,Male,Sales,Account Manager,12,1,1,7620,91400,1,4,2,No,6.9,Married,Business,Yes
+2002,24,Male,Engineering,Software Engineer,17,4,0,9370,112400,3,2,3,No,1.0,Single,Business,No
+2003,26,Male,Customer Support,Support Associate,2,2,2,3700,44400,4,4,3,Yes,2.5,Married,Business,No
+2004,37,Female,Marketing,Marketing Associate,0,0,0,6040,72500,4,2,3,No,6.5,Married,Marketing,No
+2005,25,Male,Customer Support,Support Associate,13,2,0,4380,52600,2,4,3,No,9.0,Divorced,Engineering,Yes
+2006,43,Female,Marketing,Content Specialist,13,3,0,6290,75500,4,4,3,No,9.3,Divorced,Marketing,No
+2007,22,Female,Engineering,QA Engineer,13,0,0,8780,105300,1,4,3,No,7.0,Divorced,Business,No
+2008,20,Male,Sales,Sales Manager,8,6,0,6430,77200,4,4,2,Yes,12.4,Divorced,Engineering,No
+2009,24,Male,Finance,Accountant,1,1,1,5080,60900,3,2,3,Yes,1.0,Married,Business,Yes
+2010,32,Female,Engineering,Software Engineer,8,0,0,6900,82800,4,4,3,No,7.6,Married,Business,No
+2011,57,Male,Engineering,Engineering Manager,8,2,0,8490,101900,1,4,3,No,17.5,Divorced,Marketing,No
+2012,32,Male,Customer Support,Support Associate,6,2,2,3510,42100,4,3,3,Yes,6.9,Single,HR,Yes
+2013,43,Female,Engineering,Engineering Manager,4,0,0,7380,88600,2,3,3,No,1.8,Single,Marketing,No
+2014,36,Male,Sales,Account Manager,12,0,0,6710,80500,4,2,1,No,3.0,Married,Engineering,Yes
+2015,46,Male,HR,Recruiter,12,0,0,6600,79200,4,3,3,No,12.5,Single,Other,Yes
+2016,35,Male,Engineering,Engineering Manager,3,3,0,5200,62400,2,3,4,No,43.7,Married,HR,No
+2017,40,Male,Marketing,Marketing Associate,7,1,0,5040,60500,1,4,4,Yes,4.2,Single,HR,Yes
+2018,50,Male,Finance,Financial Analyst,5,1,1,5400,64800,2,4,3,Yes,5.4,Married,Engineering,No
+2019,36,Female,Finance,Finance Manager,13,1,1,8380,100600,1,3,3,No,1.0,Married,Marketing,No
+2020,20,Male,Engineering,Engineering Manager,0,0,0,5400,64800,3,2,3,No,5.2,Married,Other,No
+2021,22,Female,Engineering,Senior Engineer,9,0,0,8620,103400,3,3,2,Yes,9.9,Divorced,Business,No
+2022,44,Male,Finance,Financial Analyst,0,0,0,4200,50400,3,1,3,No,1.1,Married,Marketing,Yes
+2023,40,Female,Customer Support,Support Manager,11,2,0,4240,50900,4,1,3,No,8.8,Single,Other,Yes
+2024,21,Male,Customer Support,Support Lead,2,2,2,3580,43000,2,3,4,No,4.9,Single,HR,No
+2025,20,Male,Sales,Sales Manager,0,0,0,5320,63900,1,4,3,No,1.2,Married,Other,Yes
+2026,48,Male,Sales,Account Manager,2,2,0,4750,57000,3,4,4,No,21.3,Married,Other,Yes
+2027,33,Male,Finance,Finance Manager,9,4,3,7060,84700,4,3,3,No,2.2,Married,Engineering,No
+2028,26,Female,Sales,Sales Manager,10,5,1,5080,61000,4,4,2,No,6.5,Single,Marketing,No
+2029,34,Female,Marketing,Marketing Manager,9,6,2,5640,67700,2,1,4,No,1.0,Married,Engineering,No
+2030,20,Female,Customer Support,Support Manager,6,6,1,4520,54300,3,2,3,No,18.5,Married,Engineering,No
+2031,38,Male,Sales,Sales Manager,14,3,0,7540,90500,4,4,3,Yes,15.9,Single,Business,No
+2032,52,Male,Sales,Sales Manager,9,3,1,5540,66500,3,3,3,No,2.1,Single,Other,No
+2033,41,Male,Finance,Accountant,0,0,0,4780,57300,4,1,4,Yes,33.1,Married,Engineering,No
+2034,25,Male,Customer Support,Support Associate,15,0,0,4830,58000,2,2,3,No,1.0,Divorced,Other,Yes
+2035,38,Female,Customer Support,Support Manager,13,8,1,5300,63600,4,4,3,No,2.4,Married,Engineering,No
+2036,20,Female,Engineering,Engineering Manager,3,2,0,7320,87800,1,3,3,No,1.0,Divorced,Marketing,No
+2037,39,Male,Customer Support,Support Lead,4,0,0,4420,53100,1,3,2,No,7.4,Single,Business,Yes
+2038,20,Male,HR,HR Executive,16,1,0,5850,70200,4,2,3,No,11.1,Single,Other,No
+2039,36,Male,Engineering,Software Engineer,14,0,0,8480,101800,4,3,2,No,9.2,Single,Marketing,No
+2040,36,Male,Sales,Sales Manager,9,3,2,5620,67500,4,1,3,No,2.8,Married,Other,No
+2041,28,Female,Sales,Account Manager,6,3,1,5350,64200,4,2,3,No,5.9,Single,Other,No
+2042,31,Female,Marketing,Marketing Associate,11,1,1,6030,72400,3,3,2,No,7.5,Married,Other,No
+2043,41,Male,Marketing,Marketing Manager,8,0,0,6820,81800,4,2,4,No,13.2,Married,Other,No
+2044,41,Male,Customer Support,Support Manager,20,8,7,7590,91100,4,4,3,No,3.0,Married,Business,No
+2045,29,Male,Marketing,Marketing Associate,3,2,0,5420,65100,2,3,3,No,10.2,Married,Other,No
+2046,30,Male,HR,HR Executive,7,0,0,4350,52200,2,2,3,No,3.2,Single,HR,No
+2047,39,Female,Sales,Sales Executive,1,0,0,5460,65500,3,2,2,Yes,13.7,Single,Marketing,No
+2048,56,Female,Engineering,Software Engineer,3,3,1,6350,76200,4,4,4,No,1.9,Single,Business,No
+2049,35,Male,Engineering,Software Engineer,11,7,0,6840,82100,2,4,2,No,7.6,Single,Other,No
+2050,38,Female,Engineering,Senior Engineer,2,2,0,6160,73900,3,3,3,No,1.0,Single,Engineering,No
+2051,35,Male,Engineering,Engineering Manager,13,1,1,9780,117400,1,2,3,No,1.2,Single,Other,Yes
+2052,23,Male,Marketing,Marketing Associate,15,0,0,7270,87200,3,2,4,No,8.7,Divorced,Engineering,Yes
+2053,37,Male,Sales,Sales Manager,16,12,1,6140,73700,2,1,4,No,11.5,Single,Business,No
+2054,31,Male,Finance,Accountant,8,1,0,6600,79200,2,3,1,No,7.8,Married,Business,No
+2055,37,Male,Engineering,Software Engineer,0,0,0,6480,77700,3,4,3,No,2.7,Married,Business,No
+2056,43,Male,Marketing,Marketing Associate,11,10,10,5920,71100,4,2,3,No,14.1,Divorced,Marketing,No
+2057,29,Male,HR,HR Executive,22,4,4,6570,78800,3,4,3,Yes,10.5,Single,Marketing,No
+2058,43,Male,Customer Support,Support Manager,7,6,2,5080,60900,3,4,3,No,2.8,Divorced,Business,Yes
+2059,28,Female,Sales,Account Manager,11,0,0,6510,78100,2,4,2,Yes,1.2,Single,Business,No
+2060,37,Male,Marketing,Content Specialist,8,0,0,5060,60700,3,2,4,No,20.1,Single,Engineering,No
+2061,35,Male,Engineering,QA Engineer,16,3,2,10850,130200,4,4,2,No,10.2,Single,Engineering,No
+2062,36,Female,Finance,Accountant,7,3,1,5430,65200,4,3,3,No,4.6,Single,Engineering,No
+2063,45,Male,Marketing,Marketing Associate,10,0,0,6180,74200,3,4,3,No,14.2,Married,Marketing,Yes
+2064,38,Male,Customer Support,Support Associate,1,1,1,3390,40700,3,3,3,No,1.0,Single,HR,No
+2065,24,Male,Customer Support,Support Manager,7,0,0,4180,50200,3,4,3,Yes,1.8,Divorced,Business,Yes
+2066,42,Female,Engineering,Engineering Manager,10,1,0,8390,100700,4,4,3,No,3.6,Married,Business,No
+2067,46,Female,Engineering,QA Engineer,13,6,4,10230,122800,3,2,3,No,4.7,Single,Business,No
+2068,48,Female,Customer Support,Support Lead,3,0,0,3620,43400,2,4,3,No,1.0,Single,Marketing,Yes
+2069,22,Female,Sales,Sales Executive,10,3,1,6300,75600,1,4,4,No,5.1,Divorced,Engineering,No
+2070,52,Male,HR,HR Executive,5,3,0,4650,55800,1,4,3,No,12.1,Divorced,Other,No
+2071,34,Female,Engineering,Software Engineer,2,2,2,7240,86900,3,3,2,No,7.0,Married,Other,No
+2072,20,Male,Sales,Sales Executive,2,1,1,5580,67000,3,4,3,No,32.4,Single,Marketing,No
+2073,30,Female,Engineering,Engineering Manager,0,0,0,7070,84800,4,4,1,No,6.7,Single,HR,No
+2074,52,Male,Finance,Finance Manager,11,8,5,7990,95900,3,1,3,Yes,1.0,Divorced,Engineering,No
+2075,26,Male,Marketing,Marketing Associate,14,0,0,6380,76500,4,2,3,Yes,3.2,Married,Engineering,Yes
+2076,36,Female,Sales,Account Manager,4,1,1,4830,58000,4,3,2,No,3.2,Single,Engineering,No
+2077,54,Male,Sales,Sales Executive,9,6,1,4110,49300,4,3,3,No,4.8,Married,Business,No
+2078,36,Male,Sales,Sales Manager,9,4,0,5380,64500,2,4,3,No,37.4,Married,HR,No
+2079,25,Female,Marketing,Marketing Manager,10,0,0,5580,67000,4,2,4,No,3.8,Single,Engineering,No
+2080,29,Female,HR,HR Executive,3,0,0,4470,53600,4,2,3,No,11.7,Married,HR,No
+2081,26,Female,HR,HR Manager,0,0,0,4070,48800,3,2,3,Yes,11.0,Single,Other,No
+2082,35,Male,Marketing,Marketing Associate,6,0,0,3830,46000,4,2,3,No,3.5,Married,Other,No
+2083,40,Male,Sales,Sales Executive,4,1,0,5210,62500,4,3,2,No,1.0,Divorced,Other,No
+2084,52,Female,Engineering,Software Engineer,16,2,0,10370,124400,3,4,3,No,4.7,Divorced,Other,No
+2085,28,Male,Marketing,Marketing Associate,7,7,3,6630,79600,2,3,3,No,19.9,Single,HR,Yes
+2086,42,Male,Engineering,QA Engineer,12,0,0,7500,90000,4,2,3,No,14.1,Single,Other,No
+2087,33,Male,Finance,Financial Analyst,10,1,1,8240,98900,3,1,3,Yes,8.0,Married,Engineering,No
+2088,51,Female,Marketing,Marketing Associate,4,4,0,5540,66500,4,3,3,No,1.0,Married,Engineering,No
+2089,24,Female,Finance,Financial Analyst,0,0,0,4480,53800,3,3,3,Yes,2.4,Married,Marketing,No
+2090,41,Female,Engineering,Senior Engineer,9,6,0,8380,100600,4,3,4,No,25.3,Married,HR,No
+2091,36,Male,Marketing,Marketing Manager,12,3,0,5220,62600,3,4,3,No,13.8,Married,HR,No
+2092,39,Male,Engineering,Senior Engineer,8,0,0,9550,114600,2,1,4,No,5.4,Single,Engineering,No
+2093,49,Male,Engineering,Engineering Manager,16,0,0,10260,123100,2,4,3,No,3.9,Divorced,Business,No
+2094,28,Male,Marketing,Marketing Associate,9,3,3,5720,68600,3,4,4,No,1.7,Married,Engineering,No
+2095,20,Female,Finance,Accountant,17,9,3,6030,72400,2,4,2,Yes,1.9,Married,Business,No
+2096,45,Female,Finance,Finance Manager,1,1,1,4980,59800,3,2,3,Yes,8.3,Divorced,Engineering,No
+2097,49,Female,Marketing,Marketing Associate,9,4,1,5580,67000,1,2,3,Yes,1.2,Divorced,Business,No
+2098,30,Female,HR,HR Executive,5,0,0,4840,58100,1,2,2,Yes,10.5,Single,HR,Yes
+2099,44,Female,Marketing,Marketing Manager,9,2,0,5850,70200,2,2,3,No,1.2,Married,Engineering,Yes
+2100,35,Male,Marketing,Marketing Manager,10,8,0,5440,65300,3,4,3,Yes,5.0,Married,Other,No
+2101,33,Male,HR,HR Manager,5,2,2,4760,57100,2,4,3,No,2.3,Divorced,Business,No
+2102,30,Female,Customer Support,Support Lead,3,0,0,3400,40800,3,4,3,No,4.9,Single,HR,No
+2103,38,Male,Engineering,Software Engineer,6,0,0,8220,98700,3,2,1,Yes,6.4,Single,Other,No
+2104,26,Male,Engineering,Senior Engineer,11,0,0,10600,127200,4,3,1,Yes,6.9,Single,HR,No
+2105,37,Male,Customer Support,Support Lead,4,0,0,4490,53900,4,3,2,No,15.0,Married,HR,No
+2106,32,Female,Customer Support,Support Manager,8,2,0,6020,72300,4,4,1,No,8.3,Divorced,Business,No
+2107,25,Female,Engineering,Software Engineer,6,6,0,6930,83200,4,2,3,Yes,1.8,Single,Engineering,No
+2108,21,Male,Finance,Financial Analyst,13,0,0,7270,87200,3,2,3,No,7.3,Divorced,Marketing,Yes
+2109,36,Female,Finance,Financial Analyst,4,1,1,5860,70300,3,3,2,No,1.0,Single,Other,No
+2110,20,Female,Engineering,Senior Engineer,13,0,0,7390,88700,4,3,4,No,16.8,Divorced,Other,No
+2111,45,Female,Sales,Account Manager,8,3,0,5400,64800,2,3,3,Yes,5.9,Divorced,Marketing,No
+2112,38,Male,Engineering,Software Engineer,3,3,0,6440,77300,4,2,4,No,1.0,Single,Business,No
+2113,25,Male,Finance,Accountant,3,3,0,4990,59900,3,3,3,No,7.9,Married,Business,No
+2114,51,Male,Engineering,QA Engineer,10,5,1,7660,91900,4,2,3,Yes,5.5,Single,Engineering,No
+2115,42,Female,Engineering,Engineering Manager,7,2,0,8280,99400,3,3,4,No,19.7,Married,Business,No
+2116,20,Female,Sales,Account Manager,13,5,5,6740,80900,4,2,3,Yes,9.4,Married,Business,No
+2117,51,Female,Finance,Financial Analyst,6,3,0,6480,77700,4,3,3,No,1.7,Divorced,Business,No
+2118,20,Male,Marketing,Marketing Associate,4,3,2,5090,61100,3,4,2,No,2.6,Single,Engineering,No
+2119,34,Female,Engineering,Engineering Manager,7,5,0,7510,90100,3,3,3,No,2.6,Divorced,Marketing,No
+2120,41,Male,Engineering,QA Engineer,11,7,3,8970,107600,3,2,3,Yes,29.2,Married,Business,Yes
+2121,28,Male,Engineering,Senior Engineer,1,1,1,8050,96600,1,4,3,Yes,5.9,Married,Engineering,No
+2122,39,Male,Engineering,QA Engineer,3,3,1,7720,92600,1,4,3,Yes,8.3,Single,HR,Yes
+2123,38,Male,Finance,Financial Analyst,10,10,0,7000,84000,4,1,4,Yes,8.3,Divorced,Marketing,No
+2124,30,Male,Engineering,QA Engineer,9,7,0,8680,104200,3,3,4,No,3.0,Single,Engineering,No
+2125,33,Male,Finance,Financial Analyst,9,3,1,5630,67600,2,3,2,Yes,5.8,Single,Engineering,No
+2126,40,Male,Sales,Sales Executive,2,1,1,4620,55500,4,3,3,No,1.4,Divorced,Business,No
+2127,33,Male,Sales,Sales Manager,6,0,0,5540,66500,2,1,3,Yes,23.5,Single,HR,Yes
+2128,29,Female,Marketing,Content Specialist,0,0,0,3950,47400,4,1,3,No,1.0,Single,Other,Yes
+2129,35,Male,Engineering,Software Engineer,8,3,2,8650,103800,4,3,4,No,4.7,Married,Engineering,No
+2130,29,Female,Marketing,Marketing Associate,5,5,0,5390,64700,4,4,4,Yes,1.0,Married,Engineering,No
+2131,38,Male,Customer Support,Support Associate,13,3,0,4950,59400,3,2,4,Yes,1.2,Single,Business,No
+2132,40,Male,Engineering,QA Engineer,7,5,0,8250,99000,3,3,4,No,1.0,Single,Other,No
+2133,45,Male,Engineering,Engineering Manager,6,1,1,9070,108800,4,2,1,Yes,31.3,Married,Business,No
+2134,35,Female,Customer Support,Support Lead,4,1,1,3810,45700,3,3,3,No,3.6,Single,Other,Yes
+2135,23,Male,Finance,Accountant,9,0,0,7020,84300,3,3,3,No,6.6,Married,Business,No
+2136,36,Male,Marketing,Content Specialist,10,4,0,6600,79200,1,1,3,No,5.1,Married,Business,No
+2137,27,Female,Engineering,Senior Engineer,6,6,2,8250,99000,4,4,3,Yes,6.3,Single,Engineering,No
+2138,27,Female,Sales,Sales Manager,14,1,1,7200,86400,3,4,4,No,4.7,Single,Marketing,No
+2139,21,Male,Engineering,Senior Engineer,0,0,0,5530,66400,3,3,4,Yes,1.0,Divorced,Marketing,Yes
+2140,41,Female,HR,HR Manager,3,1,0,5590,67100,4,3,3,No,6.3,Married,Marketing,No
+2141,43,Female,Marketing,Marketing Manager,11,9,2,5380,64600,4,4,3,No,6.6,Single,Other,No
+2142,34,Male,Sales,Sales Manager,7,7,0,5360,64300,2,4,3,Yes,1.0,Single,Engineering,No
+2143,44,Female,Engineering,Software Engineer,6,3,0,7800,93600,2,2,3,Yes,21.2,Single,Engineering,No
+2144,33,Male,Engineering,Software Engineer,17,1,0,9740,116900,4,3,4,No,11.7,Married,Business,No
+2145,39,Male,Sales,Account Manager,7,7,0,5490,65900,3,2,3,No,12.8,Single,Engineering,No
+2146,30,Male,Engineering,Engineering Manager,5,3,2,7490,89900,3,4,2,No,3.7,Divorced,Business,No
+2147,22,Male,Engineering,QA Engineer,6,6,2,7570,90800,3,3,3,No,3.7,Single,Engineering,No
+2148,42,Female,HR,HR Executive,10,0,0,5980,71800,3,3,3,No,2.7,Divorced,Engineering,No
+2149,25,Female,Sales,Sales Manager,7,3,0,5310,63700,2,3,1,No,3.5,Single,Business,No
+2150,31,Male,Engineering,Engineering Manager,14,7,3,9500,114000,4,3,2,Yes,3.7,Married,Engineering,Yes
+2151,36,Female,Finance,Accountant,1,0,0,4700,56400,3,4,3,No,17.2,Divorced,Marketing,No
+2152,26,Female,Marketing,Content Specialist,0,0,0,4160,49900,3,3,2,No,23.4,Married,Other,No
+2153,33,Male,Marketing,Content Specialist,5,1,0,4760,57100,1,3,3,No,7.9,Married,Business,No
+2154,32,Female,Engineering,QA Engineer,12,4,1,9800,117600,3,4,3,No,2.7,Married,Engineering,No
+2155,20,Female,Customer Support,Support Lead,4,0,0,4080,48900,2,3,3,No,27.2,Married,Engineering,Yes
+2156,26,Female,Customer Support,Support Associate,0,0,0,3920,47000,3,2,3,No,3.5,Divorced,Engineering,No
+2157,27,Female,Customer Support,Support Lead,4,0,0,3560,42700,2,4,2,Yes,6.5,Married,Business,No
+2158,30,Female,Customer Support,Support Lead,12,2,0,4840,58100,3,3,2,No,10.0,Single,Other,Yes
+2159,32,Male,Sales,Account Manager,2,2,0,5530,66400,4,3,1,No,14.4,Married,Business,No
+2160,24,Male,Sales,Sales Executive,3,0,0,4820,57900,2,3,3,No,12.4,Single,Other,Yes
+2161,23,Male,Engineering,Senior Engineer,11,4,3,8940,107300,3,2,3,Yes,17.0,Single,Other,Yes
+2162,31,Male,Customer Support,Support Lead,6,5,5,4850,58200,3,3,4,No,1.0,Married,Business,No
+2163,38,Female,HR,HR Manager,0,0,0,4220,50700,1,3,4,Yes,1.0,Divorced,Business,Yes
+2164,43,Male,Sales,Account Manager,11,3,3,6560,78700,4,3,4,No,4.4,Single,Business,No
+2165,41,Female,Sales,Account Manager,7,0,0,5160,61900,2,3,3,No,3.8,Divorced,Other,Yes
+2166,50,Female,Marketing,Marketing Manager,5,0,0,5890,70700,3,3,4,No,4.0,Divorced,HR,Yes
+2167,28,Male,Marketing,Marketing Associate,6,5,1,5080,61000,3,4,3,No,5.5,Married,Engineering,No
+2168,45,Male,Sales,Sales Executive,9,4,2,4520,54300,3,3,4,No,5.1,Divorced,HR,No
+2169,30,Female,Finance,Finance Manager,8,6,4,5310,63700,4,2,4,No,2.5,Married,HR,No
+2170,36,Male,Engineering,Senior Engineer,2,2,1,6320,75900,3,2,3,Yes,7.9,Married,Engineering,No
+2171,37,Male,Customer Support,Support Associate,9,1,1,4530,54400,2,1,4,No,13.7,Married,Engineering,No
+2172,37,Male,Sales,Sales Manager,6,5,0,4780,57400,3,2,3,Yes,1.0,Single,Other,Yes
+2173,41,Male,HR,Recruiter,7,0,0,5720,68700,3,4,3,Yes,6.3,Married,Other,No
+2174,45,Female,Engineering,QA Engineer,5,5,0,8080,96900,4,4,4,No,8.1,Married,Engineering,No
+2175,27,Female,Customer Support,Support Lead,7,3,2,3150,37800,3,4,4,Yes,3.8,Single,Business,No
+2176,39,Male,Customer Support,Support Associate,16,1,1,5280,63400,3,3,3,No,6.7,Married,Business,Yes
+2177,46,Male,Customer Support,Support Associate,12,1,1,4920,59100,4,3,3,No,4.2,Married,Engineering,No
+2178,41,Female,Finance,Finance Manager,13,1,1,8150,97800,2,1,1,Yes,10.6,Single,Marketing,No
+2179,33,Female,Engineering,Software Engineer,9,0,0,9080,108900,2,3,3,No,3.1,Divorced,Engineering,No
+2180,35,Female,Engineering,Software Engineer,3,3,1,8090,97100,4,3,3,No,2.0,Married,Other,No
+2181,28,Female,Sales,Sales Manager,6,0,0,5580,66900,3,3,3,No,20.2,Single,Marketing,No
+2182,40,Male,Finance,Financial Analyst,8,2,0,6220,74700,3,3,3,No,18.8,Single,Other,Yes
+2183,32,Male,Engineering,Engineering Manager,4,0,0,8380,100500,1,2,4,No,7.0,Married,Other,Yes
+2184,31,Female,Customer Support,Support Manager,11,3,0,5070,60800,3,1,3,Yes,6.5,Single,Marketing,Yes
+2185,23,Male,Sales,Account Manager,16,14,0,7350,88200,4,3,4,Yes,11.9,Single,Marketing,No
+2186,47,Male,Engineering,QA Engineer,10,5,1,8600,103200,2,2,4,No,1.5,Single,Engineering,No
+2187,22,Female,Engineering,Engineering Manager,8,6,1,8920,107000,1,1,3,Yes,25.5,Divorced,Business,Yes
+2188,50,Female,Sales,Sales Executive,11,2,2,7080,85000,3,2,1,Yes,1.0,Divorced,Marketing,Yes
+2189,35,Male,Finance,Accountant,10,10,0,6260,75100,3,2,2,No,14.5,Single,Other,No
+2190,34,Male,Finance,Financial Analyst,12,5,0,7250,87000,3,3,2,No,6.4,Married,Engineering,No
+2191,37,Female,Customer Support,Support Associate,11,0,0,5480,65700,3,3,3,No,25.0,Single,Engineering,No
+2192,38,Female,Customer Support,Support Associate,0,0,0,2920,35100,2,4,3,No,9.1,Married,Business,Yes
+2193,20,Male,Engineering,Software Engineer,7,7,0,8780,105400,4,3,4,Yes,1.0,Divorced,Other,No
+2194,40,Male,Customer Support,Support Manager,4,0,0,3790,45500,2,1,3,No,8.8,Married,Marketing,Yes
+2195,35,Female,Sales,Sales Executive,16,0,0,5780,69400,4,4,3,No,6.5,Married,Business,No
+2196,27,Male,Customer Support,Support Lead,2,1,1,3710,44500,3,2,3,No,2.4,Married,HR,Yes
+2197,29,Male,HR,Recruiter,7,1,1,4530,54400,3,2,4,No,7.6,Divorced,Marketing,No
+2198,20,Female,Sales,Sales Executive,16,2,2,7890,94700,4,2,4,Yes,1.0,Married,Marketing,No
+2199,34,Female,Engineering,Engineering Manager,18,6,5,13310,159700,4,4,3,No,2.7,Single,Marketing,No
+2200,22,Female,Engineering,Software Engineer,7,7,3,7990,95900,1,3,3,No,12.4,Married,Marketing,Yes
+2201,44,Female,Engineering,Software Engineer,16,1,0,9590,115100,3,3,3,No,1.0,Divorced,Business,No
+2202,32,Female,HR,Recruiter,13,8,2,6780,81300,1,2,2,No,12.0,Divorced,Marketing,No
+2203,32,Male,HR,Recruiter,15,3,1,5050,60600,4,3,3,No,6.3,Divorced,Business,No
+2204,36,Male,Engineering,QA Engineer,15,0,0,9240,110900,4,3,3,No,7.4,Married,Marketing,No
+2205,36,Male,Finance,Finance Manager,14,8,1,8160,97900,3,2,3,Yes,3.9,Single,Other,No
+2206,31,Male,HR,Recruiter,0,0,0,4940,59300,1,3,3,No,4.7,Married,Business,No
+2207,32,Male,Customer Support,Support Associate,15,7,1,6580,79000,4,1,3,No,2.3,Single,Other,No
+2208,38,Male,Sales,Sales Manager,2,2,2,4420,53100,4,3,4,No,8.4,Married,Marketing,Yes
+2209,20,Female,Finance,Finance Manager,6,3,2,6580,78900,2,1,3,Yes,24.9,Married,Business,Yes
+2210,37,Female,Engineering,Senior Engineer,6,0,0,8620,103500,3,2,2,Yes,4.7,Married,Business,No
+2211,39,Female,Sales,Sales Executive,0,0,0,3900,46800,4,3,3,No,1.7,Married,Engineering,Yes
+2212,36,Male,Marketing,Marketing Associate,2,1,0,4090,49100,4,3,2,Yes,28.2,Divorced,Other,Yes
+2213,50,Female,Finance,Finance Manager,6,6,1,5640,67700,3,2,3,No,1.0,Divorced,Engineering,No
+2214,35,Female,Finance,Finance Manager,5,5,0,5320,63900,1,3,3,No,14.4,Married,Business,No
+2215,32,Female,Marketing,Marketing Associate,2,2,1,4810,57700,2,3,3,Yes,1.3,Single,Engineering,Yes
+2216,26,Male,Customer Support,Support Associate,5,2,1,3530,42400,3,4,3,No,8.4,Married,HR,No
+2217,45,Female,Engineering,Software Engineer,0,0,0,7300,87600,2,1,4,No,1.0,Married,Other,Yes
+2218,39,Female,Sales,Sales Executive,5,5,4,5920,71000,3,2,3,No,1.6,Married,Business,No
+2219,32,Female,Engineering,Engineering Manager,9,2,2,8330,100000,3,3,3,No,1.3,Married,Marketing,No
+2220,23,Male,Engineering,Engineering Manager,11,4,4,8280,99400,1,2,4,Yes,20.2,Single,Engineering,Yes
+2221,43,Male,Engineering,QA Engineer,0,0,0,7320,87800,4,4,4,No,7.3,Married,HR,No
+2222,28,Male,Sales,Account Manager,3,3,0,4560,54700,1,4,3,No,9.0,Married,Other,No
+2223,53,Male,Marketing,Content Specialist,17,0,0,8420,101100,4,3,3,No,1.0,Single,Engineering,No
+2224,42,Female,Marketing,Content Specialist,10,0,0,6700,80400,1,3,2,No,3.2,Divorced,Business,No
+2225,41,Male,HR,HR Executive,12,2,0,6440,77300,4,3,4,No,35.5,Single,Business,No
+2226,44,Male,Marketing,Marketing Associate,5,5,1,5000,60000,3,3,4,No,11.2,Married,Marketing,No
+2227,32,Female,Engineering,Senior Engineer,6,3,0,8510,102100,4,2,4,No,12.3,Married,Other,No
+2228,41,Male,Engineering,Senior Engineer,11,0,0,9840,118100,4,3,3,Yes,14.2,Single,Business,No
+2229,30,Female,Sales,Sales Executive,6,0,0,5320,63800,4,3,3,Yes,14.8,Divorced,Other,No
+2230,28,Male,Marketing,Marketing Associate,11,1,0,5420,65000,1,4,3,No,6.1,Married,Other,Yes
+2231,35,Female,Sales,Sales Executive,9,0,0,5680,68200,4,3,3,No,6.5,Married,Business,No
+2232,41,Female,Engineering,Engineering Manager,8,1,0,8060,96700,4,4,3,No,9.2,Divorced,Other,No
+2233,29,Male,Engineering,Software Engineer,2,2,2,8400,100800,4,4,3,Yes,3.9,Married,HR,No
+2234,42,Male,Sales,Sales Executive,9,3,3,6320,75900,1,1,2,No,7.4,Single,Other,Yes
+2235,25,Male,Marketing,Marketing Associate,14,0,0,7200,86400,4,2,3,Yes,1.2,Single,Business,No
+2236,26,Female,Engineering,Software Engineer,6,2,2,8320,99900,4,2,4,No,20.7,Married,Business,No
+2237,33,Male,Engineering,Engineering Manager,7,4,1,10240,122900,1,1,1,No,1.7,Married,HR,No
+2238,47,Male,Sales,Sales Executive,6,4,0,5280,63300,2,3,3,No,15.2,Single,Engineering,No
+2239,30,Female,HR,HR Executive,6,6,0,5580,66900,2,4,3,No,7.2,Single,Engineering,No
+2240,31,Male,Customer Support,Support Associate,3,2,2,3250,39000,3,2,4,No,2.6,Single,HR,No
+2241,29,Male,Engineering,Senior Engineer,10,0,0,9210,110500,3,3,3,No,22.7,Married,Engineering,No
+2242,34,Female,Sales,Sales Executive,10,3,0,5910,70900,4,4,4,No,2.4,Divorced,HR,No
+2243,42,Male,Engineering,Engineering Manager,10,8,1,9130,109600,3,4,4,No,11.3,Married,Business,No
+2244,46,Male,Customer Support,Support Lead,3,0,0,3650,43800,2,3,3,No,11.3,Married,Business,No
+2245,38,Male,Finance,Financial Analyst,0,0,0,5440,65300,1,2,2,No,23.5,Single,Marketing,Yes
+2246,39,Male,Sales,Sales Executive,14,8,3,6400,76800,4,4,2,No,22.3,Single,Marketing,No
+2247,32,Male,Sales,Sales Manager,6,4,0,5990,71900,2,3,2,No,3.8,Single,HR,No
+2248,32,Female,Sales,Account Manager,10,2,1,5020,60200,4,3,3,No,7.4,Divorced,Other,Yes
+2249,20,Male,Customer Support,Support Manager,11,0,0,5230,62800,4,3,3,No,8.9,Single,Engineering,No
+2250,45,Male,Finance,Finance Manager,11,4,0,6240,74900,1,3,3,No,6.8,Married,Other,No
+2251,50,Male,Sales,Sales Manager,3,1,0,4960,59500,4,3,3,No,14.7,Married,Engineering,No
+2252,34,Female,HR,HR Executive,14,2,0,5840,70100,3,3,3,No,5.4,Single,Engineering,No
+2253,32,Male,Engineering,Engineering Manager,13,1,0,9290,111500,4,3,3,Yes,20.2,Married,Marketing,No
+2254,40,Female,Finance,Accountant,7,7,0,5830,70000,4,1,3,Yes,1.1,Single,Engineering,No
+2255,32,Female,Engineering,Senior Engineer,18,1,1,10270,123200,3,2,4,No,6.8,Single,Marketing,No
+2256,39,Male,Customer Support,Support Lead,3,2,0,3280,39300,3,3,2,No,1.0,Single,Marketing,No
+2257,30,Female,Marketing,Marketing Associate,15,11,10,6370,76400,3,4,2,No,7.4,Married,Other,No
+2258,37,Male,Finance,Accountant,6,0,0,6460,77500,3,4,3,No,19.9,Divorced,Engineering,No
+2259,40,Male,Sales,Sales Executive,5,5,2,5680,68100,3,2,3,No,20.1,Divorced,Marketing,No
+2260,36,Male,Marketing,Marketing Manager,8,7,0,6720,80700,2,2,3,No,1.0,Married,Business,No
+2261,38,Male,Marketing,Marketing Manager,9,4,0,5680,68200,4,3,1,No,2.4,Single,Other,No
+2262,44,Male,Finance,Finance Manager,2,2,2,5310,63700,3,3,2,No,21.3,Married,Business,No
+2263,31,Male,Engineering,QA Engineer,11,0,0,8720,104600,3,3,2,No,24.3,Single,Engineering,No
+2264,21,Female,Engineering,Engineering Manager,11,0,0,8280,99400,2,3,3,No,1.3,Divorced,Business,No
+2265,36,Female,Sales,Sales Executive,5,0,0,5910,70900,1,2,3,Yes,41.9,Married,Business,No
+2266,34,Female,Marketing,Content Specialist,9,0,0,8070,96800,3,4,3,No,10.5,Single,Business,No
+2267,44,Male,Customer Support,Support Lead,9,7,3,3920,47100,4,2,2,Yes,4.6,Single,Engineering,No
+2268,40,Male,Marketing,Marketing Manager,12,0,0,8010,96100,3,3,3,No,5.5,Divorced,Marketing,No
+2269,20,Female,Sales,Sales Executive,14,0,0,5260,63100,3,2,2,No,1.0,Single,Engineering,No
+2270,38,Male,Finance,Finance Manager,3,2,0,5540,66500,2,3,3,No,1.0,Single,Business,Yes
+2271,45,Female,HR,HR Manager,10,0,0,6050,72600,4,3,3,No,5.0,Married,Engineering,No
+2272,42,Female,HR,HR Executive,3,3,3,4280,51300,4,3,3,Yes,1.0,Married,Marketing,No
+2273,32,Male,Customer Support,Support Manager,2,0,0,3360,40300,1,3,3,No,21.6,Married,Business,Yes
+2274,36,Male,Marketing,Content Specialist,9,6,0,4860,58300,1,2,3,No,3.4,Married,Marketing,Yes
+2275,35,Male,Customer Support,Support Associate,18,3,3,7350,88200,1,4,3,Yes,1.0,Single,Marketing,No
+2276,31,Male,Engineering,Software Engineer,9,0,0,9910,118900,2,2,3,No,16.8,Divorced,HR,No
+2277,29,Female,Sales,Sales Manager,13,1,0,7180,86100,1,2,4,Yes,8.3,Single,Other,Yes
+2278,48,Male,Engineering,Senior Engineer,0,0,0,6070,72800,3,3,3,Yes,12.7,Married,Engineering,No
+2279,35,Male,Engineering,QA Engineer,4,1,0,7650,91800,3,2,3,Yes,3.7,Single,Business,No
+2280,29,Male,Engineering,QA Engineer,0,0,0,7270,87200,4,3,4,No,4.3,Single,Engineering,No
+2281,39,Female,Engineering,Senior Engineer,11,10,0,8830,106000,2,3,4,No,1.0,Divorced,Business,No
+2282,33,Male,Customer Support,Support Manager,5,0,0,4510,54100,3,4,4,Yes,16.4,Married,Business,No
+2283,37,Female,Finance,Financial Analyst,4,2,1,6440,77300,2,2,3,No,5.9,Single,Business,Yes
+2284,30,Female,Sales,Account Manager,11,6,0,7760,93100,3,1,3,No,1.0,Married,HR,No
+2285,34,Female,Sales,Sales Executive,10,3,1,5600,67200,3,4,4,No,4.3,Single,Business,No
+2286,30,Female,Customer Support,Support Associate,13,5,1,5060,60700,4,3,4,Yes,1.7,Single,Marketing,Yes
+2287,30,Male,Finance,Accountant,9,3,0,5640,67700,3,4,4,Yes,21.8,Married,Engineering,No
+2288,42,Male,Sales,Account Manager,5,3,1,5550,66600,2,3,3,No,18.4,Single,Engineering,No
+2289,20,Female,Customer Support,Support Lead,0,0,0,3500,42000,3,4,4,No,4.5,Divorced,HR,No
+2290,30,Female,Finance,Accountant,6,6,0,6280,75400,3,3,3,No,6.0,Married,Business,No
+2291,37,Female,Customer Support,Support Associate,4,1,0,3630,43600,2,2,3,No,8.5,Married,HR,Yes
+2292,28,Male,Sales,Sales Manager,7,2,2,4290,51500,1,2,3,No,1.7,Single,Business,Yes
+2293,39,Female,Engineering,Engineering Manager,8,8,0,8420,101000,4,4,3,No,5.7,Single,Other,No
+2294,45,Female,Marketing,Marketing Manager,10,4,4,6980,83700,1,3,3,No,7.6,Single,Business,No
+2295,38,Female,Sales,Account Manager,0,0,0,3820,45800,2,1,3,No,1.8,Married,Marketing,Yes
+2296,33,Male,HR,HR Executive,10,7,1,5960,71500,2,3,3,No,2.1,Single,Other,No
+2297,32,Male,Customer Support,Support Associate,5,0,0,3580,42900,3,3,3,Yes,2.4,Married,Marketing,No
+2298,33,Male,Engineering,Engineering Manager,6,4,2,9680,116200,3,3,2,No,1.0,Single,Marketing,No
+2299,39,Female,Engineering,Engineering Manager,9,3,0,7180,86200,3,4,4,No,2.1,Single,Marketing,No
+2300,21,Male,Engineering,Software Engineer,2,1,1,7090,85100,4,3,3,No,2.3,Single,Other,Yes
+2301,27,Male,Sales,Sales Executive,0,0,0,3780,45300,3,3,2,No,1.0,Single,Business,No
+2302,41,Female,Engineering,Senior Engineer,7,0,0,8720,104600,2,1,3,No,3.6,Single,Other,No
+2303,36,Male,Customer Support,Support Lead,9,1,1,5770,69200,1,2,3,No,22.7,Single,Engineering,Yes
+2304,20,Male,HR,HR Manager,19,2,0,6570,78800,1,2,4,No,18.7,Married,Engineering,Yes
+2305,48,Male,HR,HR Executive,11,4,0,6290,75500,4,2,3,Yes,18.1,Divorced,Business,No
+2306,38,Female,Sales,Account Manager,0,0,0,5510,66100,3,4,1,Yes,1.0,Divorced,Engineering,Yes
+2307,25,Male,Engineering,QA Engineer,5,5,4,8290,99500,4,2,2,No,9.0,Single,Business,No
+2308,27,Male,Sales,Sales Executive,9,4,4,5180,62200,4,4,4,No,13.0,Single,Engineering,No
+2309,29,Male,Engineering,Software Engineer,11,2,0,10770,129200,3,1,3,No,2.0,Single,Engineering,No
+2310,31,Male,Customer Support,Support Associate,6,2,0,4750,57000,4,2,3,Yes,3.8,Single,Business,No
+2311,37,Female,Marketing,Content Specialist,4,0,0,5740,68900,4,4,3,Yes,8.0,Divorced,Engineering,No
+2312,36,Male,Engineering,Software Engineer,8,4,0,10000,120000,1,4,3,No,5.4,Single,Engineering,No
+2313,37,Male,HR,HR Manager,6,3,1,4080,49000,1,2,3,Yes,9.5,Divorced,Business,Yes
+2314,33,Male,Sales,Account Manager,4,0,0,5150,61800,2,3,3,No,4.5,Divorced,Business,No
+2315,37,Male,Sales,Sales Executive,7,0,0,6550,78600,3,3,3,No,1.0,Married,Business,Yes
+2316,29,Male,Sales,Account Manager,3,0,0,5010,60100,4,2,1,Yes,27.0,Married,Other,Yes
+2317,23,Male,Engineering,Senior Engineer,9,4,0,9010,108100,1,3,3,Yes,7.4,Single,Other,No
+2318,37,Female,Engineering,Software Engineer,8,1,1,7060,84700,3,3,3,Yes,2.9,Single,Engineering,No
+2319,28,Male,Finance,Finance Manager,11,0,0,7680,92200,1,3,3,No,1.8,Married,Business,Yes
+2320,38,Female,Finance,Financial Analyst,5,2,2,5020,60200,3,3,4,Yes,12.6,Married,HR,No
+2321,38,Male,Engineering,Software Engineer,0,0,0,6120,73500,4,3,3,Yes,2.7,Married,Engineering,No
+2322,39,Male,Engineering,Software Engineer,1,1,0,6620,79500,3,3,2,Yes,2.9,Married,Business,Yes
+2323,29,Female,Finance,Financial Analyst,14,1,0,7340,88100,1,3,2,No,5.2,Married,Business,No
+2324,29,Male,Customer Support,Support Associate,1,1,0,3450,41400,3,4,3,Yes,1.1,Married,Business,No
+2325,31,Male,Marketing,Marketing Associate,5,5,0,5100,61200,2,2,4,No,1.0,Married,Engineering,Yes
+2326,29,Male,Sales,Sales Manager,19,2,0,6500,78000,3,4,3,No,1.0,Single,Marketing,No
+2327,26,Male,Sales,Sales Manager,7,0,0,5720,68700,3,3,3,Yes,11.2,Single,HR,Yes
+2328,49,Female,Engineering,Senior Engineer,2,0,0,8070,96800,4,4,3,No,5.5,Married,Other,No
+2329,38,Female,Sales,Sales Manager,8,1,0,5930,71200,4,3,4,No,10.0,Divorced,Other,No
+2330,41,Male,Marketing,Content Specialist,3,3,0,4680,56200,3,3,3,Yes,2.3,Married,Engineering,No
+2331,28,Male,Engineering,Engineering Manager,11,7,2,9350,112200,4,2,3,Yes,4.8,Married,Other,No
+2332,54,Male,Sales,Sales Manager,9,2,2,5450,65400,3,3,3,Yes,17.5,Divorced,Engineering,Yes
+2333,42,Male,Engineering,Senior Engineer,4,0,0,7120,85500,1,3,2,No,12.3,Single,Engineering,Yes
+2334,54,Female,Sales,Sales Manager,20,4,0,7820,93900,3,2,4,No,6.4,Single,Business,No
+2335,51,Male,Engineering,Engineering Manager,7,3,1,7530,90400,4,4,2,No,19.2,Divorced,Other,Yes
+2336,48,Male,Engineering,Senior Engineer,0,0,0,6420,77100,3,3,2,No,15.5,Married,Engineering,No
+2337,53,Female,HR,Recruiter,11,9,1,5620,67500,2,2,4,No,8.3,Married,Marketing,No
+2338,41,Male,HR,HR Manager,4,3,1,5820,69900,4,4,2,Yes,5.7,Single,Other,No
+2339,43,Male,Engineering,QA Engineer,2,2,1,7310,87700,1,3,3,Yes,4.5,Single,Other,No
+2340,47,Female,Customer Support,Support Lead,0,0,0,3470,41600,4,3,1,No,2.8,Single,Engineering,No
+2341,53,Male,Sales,Account Manager,5,4,3,5110,61300,3,1,3,No,6.3,Married,Engineering,No
+2342,35,Male,Sales,Account Manager,5,1,0,5670,68000,2,1,4,No,12.4,Married,Business,Yes
+2343,35,Female,Sales,Account Manager,2,0,0,4990,59900,2,2,3,Yes,3.2,Married,Other,Yes
+2344,46,Male,Engineering,QA Engineer,2,2,0,8140,97700,1,1,2,No,5.2,Single,Business,No
+2345,41,Female,Engineering,Senior Engineer,7,1,1,8930,107200,4,4,3,Yes,7.1,Married,Engineering,No
+2346,50,Female,Engineering,Engineering Manager,0,0,0,6220,74600,2,2,3,Yes,9.5,Single,Marketing,No
+2347,40,Female,Finance,Financial Analyst,8,4,0,6970,83600,3,3,3,No,1.0,Single,Other,No
+2348,41,Male,Customer Support,Support Manager,1,1,1,3640,43700,4,4,2,No,1.3,Single,Business,Yes
+2349,35,Female,Customer Support,Support Manager,6,4,4,2920,35100,4,2,3,No,3.1,Divorced,Marketing,No
+2350,27,Female,Customer Support,Support Manager,6,1,1,4130,49600,3,4,2,No,3.3,Married,Other,Yes
+2351,45,Female,Engineering,QA Engineer,9,2,0,7180,86100,4,3,2,No,1.1,Married,Engineering,No
+2352,40,Female,Sales,Sales Manager,13,6,5,6380,76500,3,3,3,No,21.4,Divorced,Engineering,No
+2353,38,Male,Sales,Sales Manager,12,0,0,6380,76500,1,3,3,No,3.7,Divorced,Engineering,Yes
+2354,33,Female,Sales,Sales Executive,4,2,0,3690,44300,4,3,3,No,1.1,Single,Business,No
+2355,42,Female,Sales,Sales Manager,12,2,0,6880,82500,1,3,2,No,2.2,Single,Business,Yes
+2356,45,Female,Sales,Account Manager,0,0,0,3320,39900,2,2,4,No,2.6,Married,Engineering,No
+2357,24,Male,Engineering,Senior Engineer,11,4,3,7880,94600,3,4,3,Yes,1.0,Married,Engineering,No
+2358,28,Male,Engineering,Senior Engineer,16,1,1,7820,93900,3,3,1,Yes,20.6,Married,Business,Yes
+2359,44,Male,Engineering,Engineering Manager,10,0,0,8660,103900,4,3,3,No,29.6,Divorced,Other,Yes
+2360,32,Female,Sales,Sales Executive,8,1,1,6600,79200,3,4,3,No,7.2,Married,Other,Yes
+2361,35,Female,Sales,Sales Executive,16,13,0,7100,85200,4,2,3,No,7.0,Divorced,Business,No
+2362,43,Male,Engineering,QA Engineer,13,9,0,11420,137100,2,3,2,No,1.0,Single,Other,No
+2363,32,Female,Finance,Accountant,15,2,0,7150,85800,4,2,2,No,25.0,Married,Engineering,Yes
+2364,28,Female,Customer Support,Support Associate,0,0,0,3680,44100,2,3,3,No,9.9,Married,HR,Yes
+2365,34,Male,Customer Support,Support Lead,2,2,2,4080,48900,3,4,3,Yes,1.0,Divorced,Engineering,Yes
+2366,20,Female,Finance,Finance Manager,0,0,0,4450,53400,4,3,3,Yes,1.0,Single,Engineering,No
+2367,35,Female,Marketing,Marketing Associate,4,1,0,5400,64800,1,2,4,No,33.7,Single,Engineering,Yes
+2368,25,Female,HR,HR Executive,9,6,6,4980,59700,3,4,3,No,1.5,Married,Business,No
+2369,30,Male,Engineering,Senior Engineer,3,1,1,7370,88400,2,2,3,Yes,3.8,Single,Engineering,No
+2370,40,Female,Customer Support,Support Associate,5,3,0,4450,53400,3,4,1,No,8.6,Single,Engineering,No
+2371,43,Female,Marketing,Marketing Associate,5,1,0,6220,74700,3,4,3,No,12.9,Married,Other,Yes
+2372,31,Male,Customer Support,Support Lead,12,0,0,4440,53300,3,2,2,No,3.3,Single,Business,Yes
+2373,34,Male,Sales,Sales Manager,24,9,3,9580,115000,3,3,3,Yes,1.0,Married,Other,No
+2374,26,Female,Finance,Financial Analyst,3,1,1,5520,66200,3,3,3,No,10.7,Single,Other,No
+2375,37,Male,Engineering,Engineering Manager,8,2,0,6860,82300,3,2,2,No,1.0,Married,Engineering,No
+2376,27,Male,Customer Support,Support Manager,12,1,0,4570,54800,1,2,2,No,2.8,Single,HR,Yes
+2377,43,Female,HR,Recruiter,10,1,0,6030,72400,4,3,4,Yes,1.0,Divorced,HR,No
+2378,46,Male,Sales,Sales Executive,7,6,0,4990,59900,4,1,3,Yes,1.0,Married,Business,No
+2379,20,Male,Sales,Sales Manager,4,3,3,3900,46800,4,4,3,Yes,1.1,Married,Business,No
+2380,46,Male,HR,HR Manager,13,2,2,5420,65000,4,2,3,No,6.5,Single,Engineering,No
+2381,20,Male,Finance,Financial Analyst,7,0,0,5720,68600,3,2,1,No,16.0,Single,HR,No
+2382,37,Male,Engineering,Engineering Manager,0,0,0,6560,78700,1,3,2,Yes,4.3,Married,Engineering,Yes
+2383,47,Male,Engineering,Engineering Manager,11,6,0,8890,106700,4,2,1,No,16.6,Single,HR,No
+2384,23,Female,Marketing,Content Specialist,9,2,0,6280,75300,2,4,4,No,1.1,Married,HR,Yes
+2385,38,Male,Sales,Sales Executive,8,8,0,7010,84100,4,3,3,Yes,17.6,Married,Business,Yes
+2386,34,Male,Finance,Financial Analyst,10,1,1,5780,69400,3,3,1,No,8.9,Single,Business,No
+2387,40,Male,Marketing,Content Specialist,10,10,6,5750,69000,1,3,3,Yes,1.0,Married,Engineering,Yes
+2388,38,Male,Customer Support,Support Manager,3,3,0,3850,46200,1,3,3,No,1.5,Married,Marketing,No
+2389,33,Female,Sales,Account Manager,15,5,1,6480,77800,4,2,2,Yes,20.8,Divorced,Business,No
+2390,43,Male,Customer Support,Support Manager,6,2,0,4100,49200,4,2,4,Yes,3.7,Divorced,Business,No
+2391,28,Female,Engineering,Software Engineer,5,1,1,7780,93300,2,3,4,No,4.1,Single,Business,No
+2392,20,Male,Engineering,Software Engineer,8,1,0,7410,88900,4,4,2,Yes,6.3,Divorced,Business,No
+2393,29,Male,Marketing,Marketing Associate,7,2,1,6190,74300,3,4,3,No,14.7,Married,Engineering,Yes
+2394,40,Female,Engineering,Software Engineer,8,2,2,8010,96100,1,3,3,No,9.3,Married,Marketing,Yes
+2395,36,Male,Engineering,Senior Engineer,0,0,0,5130,61600,3,4,4,No,1.5,Married,Engineering,Yes
+2396,27,Male,Sales,Sales Executive,2,2,0,5600,67200,3,4,3,Yes,1.0,Married,Business,Yes
+2397,33,Female,Marketing,Content Specialist,3,3,0,4530,54400,3,3,2,No,9.2,Married,Business,No
+2398,33,Female,Finance,Financial Analyst,8,1,0,6420,77100,2,3,3,No,11.9,Divorced,HR,Yes
+2399,33,Male,Marketing,Content Specialist,14,2,0,6530,78400,3,2,3,No,3.2,Married,HR,No
+2400,49,Male,Customer Support,Support Associate,0,0,0,3400,40800,4,2,4,No,17.0,Married,Other,No
+2401,26,Female,Finance,Accountant,7,1,0,5870,70400,4,4,4,No,1.0,Married,Marketing,No
+2402,20,Male,Finance,Accountant,15,14,2,8430,101200,3,3,3,No,3.9,Married,HR,No
+2403,34,Male,Finance,Financial Analyst,6,3,1,5790,69500,4,3,1,Yes,4.9,Single,Other,No
+2404,44,Female,Sales,Sales Manager,7,0,0,5900,70800,2,4,2,No,6.1,Single,Marketing,Yes
+2405,31,Female,Marketing,Content Specialist,7,5,0,4980,59800,4,3,2,Yes,3.8,Married,Marketing,Yes
+2406,30,Male,HR,HR Manager,9,2,2,5730,68800,4,4,3,No,1.2,Married,HR,No
+2407,40,Male,HR,Recruiter,13,13,2,4910,58900,4,4,3,Yes,16.1,Married,HR,No
+2408,28,Male,Customer Support,Support Associate,5,2,2,3780,45400,3,3,2,Yes,19.1,Married,Engineering,No
+2409,27,Male,Marketing,Marketing Manager,5,1,0,5590,67100,3,4,3,No,22.1,Married,Business,No
+2410,36,Male,Customer Support,Support Associate,3,1,1,3660,43900,2,2,3,Yes,2.1,Single,Business,Yes
+2411,32,Female,Customer Support,Support Lead,2,2,1,3360,40300,2,4,3,No,2.5,Single,Engineering,No
+2412,30,Male,Finance,Finance Manager,8,0,0,7510,90100,3,3,4,Yes,16.1,Single,HR,No
+2413,42,Female,Customer Support,Support Lead,13,2,0,4820,57800,3,3,4,No,13.4,Single,Engineering,No
+2414,52,Male,Sales,Account Manager,7,5,1,5630,67600,4,3,1,Yes,1.0,Married,Business,Yes
+2415,36,Male,Sales,Sales Manager,8,0,0,4550,54600,2,2,4,No,18.5,Married,Engineering,Yes
+2416,31,Male,Engineering,QA Engineer,9,1,1,9340,112100,4,4,3,Yes,2.0,Married,Business,No
+2417,23,Male,Finance,Accountant,7,7,0,6260,75100,3,3,4,Yes,11.6,Married,Engineering,No
+2418,25,Female,Sales,Sales Executive,4,1,1,4640,55700,3,3,2,No,5.9,Married,Marketing,No
+2419,48,Male,Engineering,QA Engineer,10,0,0,7200,86400,4,4,3,Yes,4.4,Married,Business,No
+2420,20,Male,HR,Recruiter,6,0,0,5580,67000,3,1,2,No,15.2,Single,Marketing,Yes
+2421,45,Male,Sales,Account Manager,5,5,0,5720,68600,3,3,3,No,1.2,Married,Business,No
+2422,28,Female,Sales,Sales Manager,0,0,0,4940,59300,4,1,3,Yes,14.9,Married,Business,No
+2423,32,Male,Sales,Sales Manager,11,3,2,7120,85500,3,3,3,Yes,11.5,Married,Engineering,Yes
+2424,27,Male,Engineering,Senior Engineer,8,2,0,7940,95300,4,3,3,Yes,7.4,Single,Other,No
+2425,20,Female,HR,Recruiter,10,0,0,5130,61600,3,3,3,No,11.1,Married,Other,No
+2426,35,Female,Sales,Sales Executive,9,1,1,5880,70600,4,2,3,No,4.5,Divorced,Engineering,No
+2427,30,Female,Finance,Financial Analyst,4,1,0,5040,60500,4,3,3,Yes,1.8,Single,Engineering,No
+2428,32,Male,Finance,Accountant,11,6,0,6090,73100,2,2,2,Yes,13.3,Divorced,Engineering,No
+2429,40,Male,Customer Support,Support Manager,8,1,0,4860,58300,4,2,3,Yes,26.5,Married,Business,Yes
+2430,20,Male,Finance,Finance Manager,2,0,0,5660,67900,4,3,2,Yes,1.6,Single,Other,No
+2431,26,Female,Finance,Accountant,3,0,0,6050,72600,4,1,4,Yes,6.6,Divorced,Business,Yes
+2432,34,Male,Finance,Finance Manager,11,2,0,6390,76700,4,3,3,No,13.5,Married,Business,No
+2433,24,Female,Marketing,Marketing Associate,0,0,0,4410,52900,1,1,3,No,11.0,Single,HR,Yes
+2434,27,Male,Sales,Sales Manager,16,1,1,7000,84000,3,4,3,No,1.0,Married,Other,No
+2435,33,Female,Engineering,Software Engineer,11,0,0,9350,112200,3,1,3,No,1.0,Married,Other,Yes
+2436,44,Male,Engineering,Software Engineer,18,9,1,10680,128100,4,2,3,No,4.0,Single,Business,No
+2437,37,Male,Customer Support,Support Associate,7,4,1,4680,56200,3,4,3,No,1.5,Married,Engineering,No
+2438,55,Female,Sales,Sales Executive,15,0,0,6390,76700,4,4,2,Yes,21.9,Single,Marketing,No
+2439,42,Female,Engineering,QA Engineer,5,5,1,6380,76500,2,3,3,No,6.9,Single,Other,Yes
+2440,44,Female,Sales,Sales Executive,13,4,0,5740,68900,3,3,3,No,1.0,Single,Engineering,No
+2441,52,Male,Engineering,Software Engineer,5,1,1,8260,99100,4,4,4,No,5.2,Married,Business,No
+2442,43,Female,Sales,Account Manager,0,0,0,4720,56700,4,3,3,Yes,10.1,Single,Other,Yes
+2443,32,Female,Sales,Account Manager,14,6,1,5030,60400,1,3,4,Yes,14.5,Single,Business,Yes
+2444,33,Male,Sales,Account Manager,1,1,1,4610,55300,4,1,3,No,4.2,Married,Marketing,Yes
+2445,37,Female,Sales,Sales Manager,5,5,0,5160,61900,4,3,4,No,7.5,Single,Business,No
+2446,38,Male,Engineering,Senior Engineer,8,8,3,9580,114900,4,3,3,No,29.1,Single,Engineering,No
+2447,29,Male,Engineering,Engineering Manager,9,4,0,9150,109800,2,2,4,No,2.6,Divorced,HR,No
+2448,44,Male,Customer Support,Support Manager,10,1,1,4780,57300,1,3,3,No,20.1,Married,Engineering,Yes
+2449,39,Female,Customer Support,Support Associate,9,1,1,4180,50100,2,2,4,No,7.7,Married,Marketing,No
+2450,30,Male,Sales,Sales Manager,4,0,0,5420,65100,3,3,2,No,18.6,Divorced,Engineering,No
+2451,27,Female,Marketing,Marketing Associate,5,3,0,5720,68600,4,4,1,No,7.7,Single,Business,No
+2452,42,Female,HR,HR Executive,14,4,4,5810,69700,3,3,3,No,12.2,Married,Business,No
+2453,36,Male,Customer Support,Support Lead,3,3,0,3790,45500,4,4,2,No,2.0,Single,Other,No
+2454,44,Male,Sales,Account Manager,4,0,0,4780,57300,3,4,3,Yes,2.5,Married,Engineering,No
+2455,43,Female,Marketing,Content Specialist,0,0,0,5580,67000,2,4,3,No,1.3,Married,Engineering,Yes
+2456,21,Female,Marketing,Marketing Associate,9,2,0,6600,79200,2,4,3,Yes,7.3,Married,Engineering,No
+2457,50,Male,Finance,Accountant,2,0,0,6360,76300,4,2,3,No,5.2,Married,Business,No
+2458,47,Female,Engineering,QA Engineer,7,0,0,10010,120100,1,2,3,No,6.9,Single,Engineering,No
+2459,28,Male,Sales,Sales Manager,9,1,0,5550,66600,4,2,3,No,4.2,Married,HR,No
+2460,23,Male,Engineering,Software Engineer,5,5,0,6800,81600,3,3,3,Yes,4.7,Married,Other,No
+2461,27,Female,Engineering,Engineering Manager,4,4,0,7080,84900,4,2,3,No,8.8,Married,HR,No
+2462,35,Male,Engineering,Software Engineer,10,7,0,8600,103200,2,3,4,No,13.7,Divorced,Engineering,No
+2463,36,Male,Sales,Sales Manager,7,7,4,5520,66200,2,3,3,No,2.8,Divorced,Other,No
+2464,43,Male,Engineering,Senior Engineer,9,2,2,6920,83000,4,3,2,Yes,1.0,Married,Marketing,No
+2465,30,Male,Marketing,Marketing Associate,3,3,0,4550,54600,2,2,2,Yes,4.5,Single,HR,No
+2466,29,Female,Sales,Account Manager,16,3,0,6740,80900,3,2,1,No,8.2,Married,Business,No
+2467,44,Male,HR,HR Manager,1,1,1,3220,38700,4,3,2,Yes,19.6,Married,Engineering,Yes
+2468,33,Male,HR,HR Manager,23,11,0,8810,105700,3,3,2,No,4.3,Divorced,Engineering,No
+2469,47,Female,Finance,Accountant,6,2,2,6130,73600,4,4,1,No,3.4,Married,HR,No
+2470,40,Male,Engineering,Senior Engineer,12,11,0,9470,113600,4,2,4,No,2.4,Married,Business,No
+2471,49,Female,Customer Support,Support Manager,13,1,1,5730,68800,4,4,3,No,1.0,Married,Business,No
+2472,46,Male,Engineering,Software Engineer,11,3,2,9200,110400,3,3,3,Yes,2.5,Married,Business,No
+2473,27,Female,Engineering,Senior Engineer,9,0,0,10140,121700,4,1,3,Yes,1.0,Divorced,Business,No
+2474,36,Female,Sales,Sales Manager,12,1,1,5980,71700,2,2,3,Yes,10.7,Single,Engineering,Yes
+2475,33,Male,Sales,Account Manager,7,3,0,4620,55500,1,4,4,No,12.5,Married,Engineering,Yes
+2476,33,Female,Finance,Accountant,16,3,0,7630,91600,1,2,2,Yes,10.8,Single,Business,Yes
+2477,22,Male,Sales,Sales Executive,5,5,2,4120,49500,4,1,3,Yes,1.6,Married,Marketing,Yes
+2478,34,Female,Engineering,QA Engineer,8,0,0,8520,102200,2,3,4,No,6.7,Married,Business,No
+2479,33,Male,Engineering,Senior Engineer,2,0,0,6080,72900,1,4,2,Yes,18.6,Single,Other,Yes
+2480,33,Female,HR,HR Manager,17,7,1,5560,66700,2,1,3,Yes,1.2,Married,Engineering,Yes
+2481,20,Female,Customer Support,Support Manager,10,6,2,5780,69300,1,3,3,Yes,1.7,Single,Marketing,No
+2482,31,Male,Engineering,QA Engineer,8,0,0,6940,83300,4,2,3,No,10.9,Married,Other,No
+2483,43,Female,HR,HR Executive,2,1,1,3580,43000,4,3,4,No,22.7,Single,Engineering,No
+2484,39,Male,Customer Support,Support Associate,0,0,0,3430,41200,3,1,4,No,2.1,Single,Engineering,Yes
+2485,34,Female,Marketing,Marketing Manager,6,0,0,5970,71600,3,3,3,No,3.0,Married,HR,No
+2486,20,Female,Sales,Sales Executive,10,9,1,5480,65800,4,3,2,No,1.2,Single,Engineering,No
+2487,30,Male,Sales,Sales Manager,6,3,0,6880,82600,4,2,4,No,15.2,Single,Engineering,No
+2488,23,Female,Sales,Account Manager,5,3,3,4390,52700,1,3,4,No,8.3,Divorced,Marketing,Yes
+2489,46,Male,Finance,Accountant,0,0,0,4510,54100,4,3,3,Yes,2.3,Single,Engineering,No
+2490,45,Male,Sales,Sales Manager,11,1,1,6630,79600,4,2,3,No,10.8,Married,Engineering,No
+2491,36,Male,Sales,Sales Executive,11,1,1,6480,77700,1,3,4,No,8.3,Married,Engineering,Yes
+2492,43,Male,Engineering,Software Engineer,8,0,0,9080,108900,3,4,3,No,3.9,Married,Business,No
+2493,26,Female,Customer Support,Support Lead,9,4,1,4660,55900,4,3,3,No,1.0,Single,Marketing,No
+2494,34,Male,Sales,Account Manager,5,3,1,5650,67800,4,3,1,No,5.1,Divorced,Marketing,No
+2495,23,Male,Sales,Sales Executive,12,1,0,4770,57200,3,3,3,No,21.2,Single,Other,No
+2496,32,Male,Customer Support,Support Lead,8,3,0,4710,56500,3,2,2,No,1.7,Single,Business,No
+2497,36,Male,Finance,Accountant,0,0,0,6170,74000,2,2,3,Yes,11.6,Married,Other,No
+2498,39,Female,Sales,Sales Manager,0,0,0,4270,51200,3,3,2,Yes,1.3,Single,Other,Yes
+2499,39,Male,Customer Support,Support Manager,5,0,0,3990,47900,1,4,4,Yes,3.8,Single,Engineering,Yes
+2500,37,Male,HR,HR Executive,12,3,1,6340,76100,2,2,3,No,14.9,Single,Business,No
