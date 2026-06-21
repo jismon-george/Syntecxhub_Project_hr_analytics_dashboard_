@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-orange)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
-![License](https://img.shields.io/badge/License-MIT-purple)
+
 
 ---
 
